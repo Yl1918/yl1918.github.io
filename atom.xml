@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-04T14:06:19.952Z</updated>
+  <updated>2019-04-05T12:09:57.847Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,25 +17,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>post你好</title>
+    <title>欢迎</title>
     <link href="http://yoursite.com/2019/04/02/post%E4%BD%A0%E5%A5%BD/"/>
     <id>http://yoursite.com/2019/04/02/post你好/</id>
-    <published>2019-04-02T13:59:51.000Z</published>
-    <updated>2019-04-04T14:06:19.952Z</updated>
+    <published>2019-04-02T13:59:51.257Z</published>
+    <updated>2019-04-05T12:09:57.847Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;table&gt;&lt;br&gt;    &lt;tr&gt;&lt;br&gt;        &lt;td&gt;emmm摸索了几天终于弄了一个大概的框架出来，然而对Markdown却是一窍不通-.-&lt;/td&gt;&lt;br&gt;    &lt;/tr&gt;&lt;br&gt;&lt;/table&gt;
-
-
+        &lt;p&gt;　　欢迎来到yl的无名小站，主要是用来记录吧-.-&lt;/p&gt;
+&lt;h3 id=&quot;目录-不定期更新吧&quot;&gt;&lt;a href=&quot;#目录-不定期更新吧&quot; class=&quot;headerlink&quot; title=&quot;目录(不定期更新吧)&quot;&gt;&lt;/a&gt;目录(不定期更新吧)&lt;/h3&gt;
       
     
     </summary>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="menu" scheme="http://yoursite.com/tags/menu/"/>
     
   </entry>
   
