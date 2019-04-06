@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-06T03:17:19.970Z</updated>
+  <updated>2019-04-06T04:35:07.269Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,12 @@
     <link href="http://yoursite.com/2019/04/05/PTA-L1-064/"/>
     <id>http://yoursite.com/2019/04/05/PTA-L1-064/</id>
     <published>2019-04-05T14:39:31.000Z</published>
-    <updated>2019-04-06T03:17:19.970Z</updated>
+    <updated>2019-04-06T04:35:07.269Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;天梯赛-L1-064-估值一亿的AI核心代码&quot;&gt;&lt;a href=&quot;#天梯赛-L1-064-估值一亿的AI核心代码&quot; class=&quot;header
-      
+      &lt;p&gt;&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;天梯赛-L1-064-估值一亿的AI核心代码&quot;&gt;&lt;a href=&quot;#天梯赛-L1-064-估值一亿的AI核心代码&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L1-064 估值一亿的AI核心代码&quot;&gt;&lt;/a&gt;天梯赛 L1-064 估值一亿的AI核心代码&lt;/h2&gt;&lt;p&gt;本题要求你实现一个稍微更值钱一点的 AI 英文问答程序，规则是：&lt;br&gt;　　１．无论用户说什么，首先把对方说的话在一行中原样打印出来；&lt;br&gt;　　２．消除原文中多余空格：把相邻单词间的多个空格换成 1个空格，把行首尾的空格全部删掉，把标点符号前面的空格删掉；&lt;br&gt;　　３．把原文中所有大写英文字母变成小写，除了 I；&lt;br&gt;　　４．把原文中所有独立的 can you、could you 对应地换成 I can、I could—— 这里“独立”是指被空格或标点符号分隔开的单词；&lt;br&gt;　　５．把原文中所有独立的 I 和 me 换成 you；&lt;br&gt;　　６．把原文中所有的问号 ? 换成惊叹号 !；&lt;br&gt;　　７．在一行中输出替换后的句子作为 AI 的回答。&lt;/p&gt;
     
     </summary>
     
@@ -45,14 +42,13 @@
     <link href="http://yoursite.com/2019/04/02/post%E4%BD%A0%E5%A5%BD/"/>
     <id>http://yoursite.com/2019/04/02/post你好/</id>
     <published>2019-04-02T13:59:51.257Z</published>
-    <updated>2019-04-05T12:09:57.847Z</updated>
+    <updated>2019-04-06T04:38:21.641Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;　　欢迎来到yl的无名小站，主要是用来记录吧-.-&lt;/p&gt;
-&lt;h3 id=&quot;目录-不定期更新吧&quot;&gt;&lt;a href=&quot;#目录-不定期更新吧&quot; class=&quot;headerlink&quot; title=&quot;目录(不定期更新吧)&quot;&gt;&lt;/a&gt;目录(不定期更新吧)&lt;/h3&gt;
+        &lt;h2 id=&quot;欢迎来到yl的无名小站，主要是用来记录吧&quot;&gt;&lt;a href=&quot;#欢迎来到yl的无名小站，主要是用来记录吧&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到yl的无名小站，主要是用来记录吧-.-&quot;&gt;&lt;/a&gt;&lt;center&gt;欢迎来到yl的无名小站，主要是
       
     
     </summary>
