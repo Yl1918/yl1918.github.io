@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-06T04:35:07.269Z</updated>
+  <updated>2019-04-06T11:36:26.445Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>有理函数的积分</title>
+    <link href="http://yoursite.com/2019/04/06/%E6%9C%89%E7%90%86%E5%87%BD%E6%95%B0%E7%9A%84%E7%A7%AF%E5%88%86/"/>
+    <id>http://yoursite.com/2019/04/06/有理函数的积分/</id>
+    <published>2019-04-06T10:32:43.000Z</published>
+    <updated>2019-04-06T11:36:26.445Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;两个多项式的商$\frac{P\left ( x \right )}{Q\left ( x\right)}$称为&lt;strong&gt;&lt;em&gt;有理函数&lt;/em&gt;&lt;/strong&gt;。这里假设$Q(x)$已被因式分解，并且$P(x)$的次数小于$Q(x)$的次数(&lt;strong&gt;&lt;e
+      
+    
+    </summary>
+    
+      <category term="高数" scheme="http://yoursite.com/categories/%E9%AB%98%E6%95%B0/"/>
+    
+    
+      <category term="积分" scheme="http://yoursite.com/tags/%E7%A7%AF%E5%88%86/"/>
+    
+  </entry>
   
   <entry>
     <title>天梯赛 L1-064</title>
