@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-06T16:01:12.339Z</updated>
+  <updated>2019-04-07T15:09:15.490Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>L2-015 互评成绩</title>
+    <link href="http://yoursite.com/2019/04/07/L2-015/"/>
+    <id>http://yoursite.com/2019/04/07/L2-015/</id>
+    <published>2019-04-07T15:06:37.000Z</published>
+    <updated>2019-04-07T15:09:15.490Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;天梯赛-L2-015-互评成绩&quot;&gt;&lt;a href=&quot;#天梯赛-L2-015-互评成绩&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-015 互评成绩&quot;&gt;&lt;/a&gt;天梯赛 L2-015 互评成绩&lt;/h2&gt;&lt;h3 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h3&gt;&lt;p&gt;学生互评作业的简单规则是这样定的：每个人的作业会被k个同学评审，得到k个成绩。系统需要去掉一个最高分和一个最低分，将剩下的分数取平均，就得到这个学生的最后成绩。本题就要求你编写这个互评系统的算分模块。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="PTA" scheme="http://yoursite.com/categories/PTA/"/>
+    
+    
+      <category term="模拟" scheme="http://yoursite.com/tags/%E6%A8%A1%E6%8B%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>L2-005 集合相似度</title>
