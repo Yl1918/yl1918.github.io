@@ -1267,6 +1267,16 @@ pre .javascript .function {
 .use-motion .collection-title {
   opacity: 0;
 }
+.post-body p a {
+  color: #999002;
+  border-bottom: none;
+  border-bottom: 1px solid #999002;
+}
+.post-body p a:hover {
+  color: #7f931d;
+  border-bottom: none;
+  border-bottom: 1px solid #7f931d;
+}
 .posts-expand {
   padding-top: 40px;
 }
@@ -1832,7 +1842,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff3e13;
+  background: #61ff82;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3043,4 +3053,20 @@ body {
 }
 .highlight:hover .btn-copy {
   opacity: 1;
+}
+code {
+  color: #ff7600;
+  background: rgba(247,247,247,0.4);
+  margin: 2px;
+}
+.highlight,
+pre {
+  margin: 5px 0;
+  padding: 5px;
+  border-radius: 3px;
+}
+.highlight,
+code,
+pre {
+  border: 1px solid #d6d6d6;
 }
