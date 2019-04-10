@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-09T11:59:19.134Z</updated>
+  <updated>2019-04-10T10:11:08.157Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,57 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>高数01</title>
+    <link href="http://yoursite.com/posts/2be819a9.html"/>
+    <id>http://yoursite.com/posts/2be819a9.html</id>
+    <published>2019-04-10T10:10:30.000Z</published>
+    <updated>2019-04-10T10:11:08.157Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;函数求导后奇偶性互换，周期性不变。&lt;br&gt;奇函数$f(0)=0$&lt;/p&gt;
+&lt;h3 id=&quot;基本类型&quot;&gt;&lt;a href=&quot;#基本类型&quot; class=&quot;headerlink&quot; title=&quot;基本类型&quot;&gt;&lt;/a&gt;基本类型&lt;/h3&gt;&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;$f(
+      
+    
+    </summary>
+    
+      <category term="高数" scheme="http://yoursite.com/categories/%E9%AB%98%E6%95%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>微积分基本公式</title>
+    <link href="http://yoursite.com/posts/7b8f5b7e.html"/>
+    <id>http://yoursite.com/posts/7b8f5b7e.html</id>
+    <published>2019-04-10T03:24:40.000Z</published>
+    <updated>2019-04-10T03:26:26.264Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;微积分基本公式&quot;&gt;&lt;a href=&quot;#微积分基本公式&quot; class=&quot;headerlink&quot; title=&quot;微积分基本公式&quot;&gt;&lt;/a&gt;微积分基本公式&lt;/h1&gt;&lt;h2 id=&quot;变上限积分公式&quot;&gt;&lt;a href=&quot;#变上限积分公式&quot; class=&quot;headerlink&quot; title=&quot;变上限积分公式&quot;&gt;&lt;/a&gt;变上限积分公式&lt;/h2&gt;&lt;h3 id=&quot;定义1：&quot;&gt;&lt;a href=&quot;#定义1：&quot; class=&quot;headerlink&quot; title=&quot;定义1：&quot;&gt;&lt;/a&gt;定义1：&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;设$f(x)$在$[a,b]$上可积，$\forall x_{0}\in [a,b]$,则$F(x) = \int_{x_{0}}^{x}f(t)dt(a\leq x\leq b)$,称为变上限积分公式。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;定理1：&quot;&gt;&lt;a href=&quot;#定理1：&quot; class=&quot;headerlink&quot; title=&quot;定理1：&quot;&gt;&lt;/a&gt;定理1：&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;设$f(x)$在$[a,b]$上可积，则$F(x)= \int_{x_{0}}^{x}f(t)dt$在$[a,b]$上连续。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;定理2：&quot;&gt;&lt;a href=&quot;#定理2：&quot; class=&quot;headerlink&quot; title=&quot;定理2：&quot;&gt;&lt;/a&gt;定理2：&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;设$f(x)$在$[a,b]$上连续，则$F(x)= \int_{x_{0}}^{x}f(t)dt$在$[a,b]$上可导，且${F}’(x) = {(\int_{x_{0}}^{x}f(t)dt)}’ = f(t)&lt;br&gt;$&lt;br&gt;
+    
+    </summary>
+    
+      <category term="高数" scheme="http://yoursite.com/categories/%E9%AB%98%E6%95%B0/"/>
+    
+    
+      <category term="积分" scheme="http://yoursite.com/tags/%E7%A7%AF%E5%88%86/"/>
+    
+  </entry>
   
   <entry>
     <title>L2-011 玩转二叉树</title>
