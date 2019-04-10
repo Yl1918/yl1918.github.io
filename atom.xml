@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-10T10:11:08.157Z</updated>
+  <updated>2019-04-10T12:28:55.086Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,21 +17,45 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>L2-007 家庭房产</title>
+    <link href="http://yoursite.com/posts/60e89d78.html"/>
+    <id>http://yoursite.com/posts/60e89d78.html</id>
+    <published>2019-04-10T12:09:24.000Z</published>
+    <updated>2019-04-10T12:28:55.086Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;天梯赛-L2-007-家庭房产&quot;&gt;&lt;a href=&quot;#天梯赛-L2-007-家庭房产&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-007 家庭房产&quot;&gt;&lt;/a&gt;天梯赛 L2-007 家庭房产&lt;/h2&gt;&lt;h3 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;给定每个人的家庭成员和其自己名下的房产，请你统计出每个家庭的人口数、人均房产面积及房产套数。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="PTA" scheme="http://yoursite.com/categories/PTA/"/>
+    
+    
+      <category term="并查集" scheme="http://yoursite.com/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
     <title>高数01</title>
     <link href="http://yoursite.com/posts/2be819a9.html"/>
     <id>http://yoursite.com/posts/2be819a9.html</id>
     <published>2019-04-10T10:10:30.000Z</published>
-    <updated>2019-04-10T10:11:08.157Z</updated>
+    <updated>2019-04-10T10:14:20.595Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;函数求导后奇偶性互换，周期性不变。&lt;br&gt;奇函数$f(0)=0$&lt;/p&gt;
+      &lt;p&gt;函数求导后奇偶性互换，周期性不变。&lt;br&gt;奇函数$f(0)=0$&lt;/p&gt;
 &lt;h3 id=&quot;基本类型&quot;&gt;&lt;a href=&quot;#基本类型&quot; class=&quot;headerlink&quot; title=&quot;基本类型&quot;&gt;&lt;/a&gt;基本类型&lt;/h3&gt;&lt;blockquote&gt;
 &lt;ol&gt;
-&lt;li&gt;$f(
-      
+&lt;li&gt;$f(x)+f(-x)$偶函数&lt;/li&gt;
+&lt;li&gt;$f(x)-f(-x)$奇函数&lt;/li&gt;
+&lt;li&gt;$f[\varphi (x)] $&lt;br&gt;奇[偶]-&amp;gt;偶&lt;br&gt;偶[奇]-&amp;gt;偶&lt;br&gt;奇[奇]-&amp;gt;奇&lt;br&gt;偶[偶]-&amp;gt;偶&lt;br&gt;非[偶]-&amp;gt;偶&lt;/li&gt;
+&lt;li&gt;$ln(x+\sqrt{1+x^2})$奇函数，求导为$\frac{1}{\sqrt(1+x^2)}$&lt;/li&gt;
+&lt;li&gt;$f(x)\rightarrow \int_{0}^{x}f(t)dt$&lt;br&gt;奇偶互换,0下限积分后奇变偶，偶变奇&lt;/li&gt;
+&lt;li&gt;$\forall x,y,f(x+y)=f(x)+f(y)$奇函数&lt;br&gt;分别取y=0,y=-x可证
     
     </summary>
     
@@ -45,7 +69,7 @@
     <link href="http://yoursite.com/posts/7b8f5b7e.html"/>
     <id>http://yoursite.com/posts/7b8f5b7e.html</id>
     <published>2019-04-10T03:24:40.000Z</published>
-    <updated>2019-04-10T03:26:26.264Z</updated>
+    <updated>2019-04-10T10:11:18.516Z</updated>
     
     <summary type="html">
     
