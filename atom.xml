@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-10T12:42:52.469Z</updated>
+  <updated>2019-04-11T06:32:28.818Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A+B问题</title>
+    <link href="http://yoursite.com/posts/6367e8f4.html"/>
+    <id>http://yoursite.com/posts/6367e8f4.html</id>
+    <published>2019-04-11T06:30:23.000Z</published>
+    <updated>2019-04-11T06:32:28.818Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;A-B问题&quot;&gt;&lt;a href=&quot;#A-B问题&quot; class=&quot;headerlink&quot; title=&quot;A+B问题&quot;&gt;&lt;/a&gt;A+B问题&lt;/h1&gt;&lt;h2 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描
+      
+    
+    </summary>
+    
+      <category term="lintcode" scheme="http://yoursite.com/categories/lintcode/"/>
+    
+    
+      <category term="位运算" scheme="http://yoursite.com/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/"/>
+    
+  </entry>
   
   <entry>
     <title>L2-007 家庭房产</title>
@@ -43,7 +66,7 @@
     <link href="http://yoursite.com/posts/2be819a9.html"/>
     <id>http://yoursite.com/posts/2be819a9.html</id>
     <published>2019-04-10T10:10:30.000Z</published>
-    <updated>2019-04-10T10:14:20.595Z</updated>
+    <updated>2019-04-11T05:59:13.580Z</updated>
     
     <summary type="html">
     
