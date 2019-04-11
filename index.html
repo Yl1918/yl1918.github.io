@@ -565,7 +565,7 @@
               
                 <span class="post-meta-item-text">更新于&#58;</span>
               
-              <time title="更新于" itemprop="dateModified" datetime="2019-04-11T14:32:37+08:00">
+              <time title="更新于" itemprop="dateModified" datetime="2019-04-11T15:56:27+08:00">
                 2019-04-11
               </time>
             
@@ -653,32 +653,16 @@
 
       
         
-          
-            <h1 id="A-B问题"><a href="#A-B问题" class="headerlink" title="A+B问题"></a>A+B问题</h1><h2 id="描述"><a href="#描述" class="headerlink" title="描述"></a>描述</h2><blockquote>
+          <h1 id="A-B问题"><a href="#A-B问题" class="headerlink" title="A+B问题"></a>A+B问题</h1><h2 id="描述"><a href="#描述" class="headerlink" title="描述"></a>描述</h2><blockquote>
 <p>给出两个整数 a 和 b , 求他们的和。<br>(不使用+等运算符)</p>
 </blockquote>
-<h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><blockquote>
-<p>a和b都是32位整数<br>可以使用位运算符</p>
-</blockquote>
-<h2 id="思路"><a href="#思路" class="headerlink" title="思路:"></a>思路:</h2><blockquote>
-<ol>
-<li>先对a和b进行异或运算，这样得到的结果相当于在二进制中该进位的地方没有进位的a+b;</li>
-<li>然后对a和b进行按位与操作，得到改进位的位置，然后右移一位</li>
-<li>不断重复步骤1和步骤2直到b为0</li>
-</ol>
-</blockquote>
-<h1 id="主要代码"><a href="#主要代码" class="headerlink" title="主要代码"></a>主要代码</h1><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//(int 是有符号整数,unsigned是无符号整数)</span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">aplusb</span><span class="params">(<span class="keyword">int</span> a, <span class="keyword">int</span> b)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">int</span> ans = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">while</span>(b)&#123;</span><br><span class="line">            ans = a^b;    </span><br><span class="line">    <span class="comment">//得到在二进制中未进</span></span><br><span class="line">            b = (a&amp;b)&lt;&lt;<span class="number">1</span>;</span><br><span class="line">    <span class="comment">//得到该进位的地方，然后左移进位</span></span><br><span class="line">            a = ans;</span><br><span class="line">        &#125;</span><br><span class="line">    <span class="keyword">return</span> ans;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>emmm主要是解决二进制是如何实现数字的加减的吧。</p>
-<h2 id="注："><a href="#注：" class="headerlink" title="注："></a>注：</h2><blockquote>
-<p><strong>二进制的运算都是以补码的形式进行的，结果也是补码，因此也需要将补码转换成为原码的形式存在。</strong><br>例：(-2^3)=?<br>首先写出-2和3的远吗<br>-2： 1010(负数，符号位为1）<br> 3： 0011(正数不变)<br> 然后求补码<br> -2： 1110(负数，符号位不变，数值位按位取反加一)<br>  3： 0011(正数不变)<br> 所以(-2^3)=1110^0011$_{(2)}$ = 1101$_{(2)}$<br>然后对其求原码，分为两种情况：</p>
-<ol>
-<li>如果最高为为1 即为负数 那么最高位不变 其他按位取反，<br>最后加一 和前边补码转原码是一样的</li>
-<li>最高为是0,不用转化<br>所以最终结果为 1011$_{(2)}$ = -3</li>
-</ol>
-</blockquote>
-<h2 id="题目链接"><a href="#题目链接" class="headerlink" title="题目链接"></a>题目链接</h2><p><a href="https://www.lintcode.com/problem/a-b-problem/description" target="_blank" rel="noopener">A+B问题</a></p>
-
-          
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/posts/6367e8f4.html#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
         
       
     </div>

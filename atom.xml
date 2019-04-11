@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-11T06:32:37.790Z</updated>
+  <updated>2019-04-11T07:56:27.424Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,14 +21,13 @@
     <link href="http://yoursite.com/posts/6367e8f4.html"/>
     <id>http://yoursite.com/posts/6367e8f4.html</id>
     <published>2019-04-11T06:30:23.000Z</published>
-    <updated>2019-04-11T06:32:37.790Z</updated>
+    <updated>2019-04-11T07:56:27.424Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;h1 id=&quot;A-B问题&quot;&gt;&lt;a href=&quot;#A-B问题&quot; class=&quot;headerlink&quot; title=&quot;A+B问题&quot;&gt;&lt;/a&gt;A+B问题&lt;/h1&gt;&lt;h2 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描
-      
+      &lt;h1 id=&quot;A-B问题&quot;&gt;&lt;a href=&quot;#A-B问题&quot; class=&quot;headerlink&quot; title=&quot;A+B问题&quot;&gt;&lt;/a&gt;A+B问题&lt;/h1&gt;&lt;h2 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;给出两个整数 a 和 b , 求他们的和。&lt;br&gt;(不使用+等运算符)&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
