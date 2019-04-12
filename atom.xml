@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-11T07:56:27.424Z</updated>
+  <updated>2019-04-12T11:23:45.657Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>L2-019 悄悄关注</title>
+    <link href="http://yoursite.com/posts/c63dfda6.html"/>
+    <id>http://yoursite.com/posts/c63dfda6.html</id>
+    <published>2019-04-12T11:20:34.000Z</published>
+    <updated>2019-04-12T11:23:45.657Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;天梯赛-L2-019-悄悄关注&quot;&gt;&lt;a href=&quot;#天梯赛-L2-019-悄悄关注&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-019 悄悄关注&quot;&gt;&lt;/a&gt;天梯赛 L2-019 悄悄关注&lt;/h1&gt;&lt;h2 id=&quot;题意&quot;&gt;&lt;a href=&quot;#题意&quot; class=&quot;headerlink&quot; title=&quot;题意&quot;&gt;&lt;/a&gt;题意&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;新浪微博上有个“悄悄关注”，一个用户悄悄关注的人，不出现在这个用户的关注列表上，但系统会推送其悄悄关注的人发表的微博给该用户。现在我们来做一回网络侦探，根据某人的关注列表和其对其他用户的点赞情况，扒出有可能被其悄悄关注的人。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="PTA" scheme="http://yoursite.com/categories/PTA/"/>
+    
+    
+      <category term="排序" scheme="http://yoursite.com/tags/%E6%8E%92%E5%BA%8F/"/>
+    
+      <category term="STL" scheme="http://yoursite.com/tags/STL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>L2-009 抢红包</title>
+    <link href="http://yoursite.com/posts/3c082050.html"/>
+    <id>http://yoursite.com/posts/3c082050.html</id>
+    <published>2019-04-12T05:23:34.000Z</published>
+    <updated>2019-04-12T05:31:48.986Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;天梯赛-L2-009-抢红包&quot;&gt;&lt;a href=&quot;#天梯赛-L2-009-抢红包&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-009 抢红包&quot;&gt;&lt;/a&gt;天梯赛 L2-009 抢红包&lt;/h1&gt;&lt;h2 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;没有人没抢过红包吧…… 这里给出N个人之间互相发红包、抢红包的记录，请你统计一下他们抢红包的收获。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="PTA" scheme="http://yoursite.com/categories/PTA/"/>
+    
+    
+      <category term="排序" scheme="http://yoursite.com/tags/%E6%8E%92%E5%BA%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>A+B问题</title>

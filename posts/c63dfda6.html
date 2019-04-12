@@ -86,7 +86,7 @@
 
 
 
-  <meta name="keywords" content="树的遍历,">
+  <meta name="keywords" content="排序,STL,">
 
 
 
@@ -97,18 +97,18 @@
 
 
 
-<meta name="description" content="天梯赛 L2-006 树的遍历题意：给定一棵二叉树的后序遍历和中序遍历，请你输出其层序遍历的序列。这里假设键值都是互不相等的正整数。">
-<meta name="keywords" content="树的遍历">
+<meta name="description" content="天梯赛 L2-019 悄悄关注题意 新浪微博上有个“悄悄关注”，一个用户悄悄关注的人，不出现在这个用户的关注列表上，但系统会推送其悄悄关注的人发表的微博给该用户。现在我们来做一回网络侦探，根据某人的关注列表和其对其他用户的点赞情况，扒出有可能被其悄悄关注的人。">
+<meta name="keywords" content="排序,STL">
 <meta property="og:type" content="article">
-<meta property="og:title" content="L2-006 树的遍历">
-<meta property="og:url" content="http://yoursite.com/posts/a8cec2de.html">
+<meta property="og:title" content="L2-019 悄悄关注">
+<meta property="og:url" content="http://yoursite.com/posts/c63dfda6.html">
 <meta property="og:site_name" content="Yl的无名小站">
-<meta property="og:description" content="天梯赛 L2-006 树的遍历题意：给定一棵二叉树的后序遍历和中序遍历，请你输出其层序遍历的序列。这里假设键值都是互不相等的正整数。">
+<meta property="og:description" content="天梯赛 L2-019 悄悄关注题意 新浪微博上有个“悄悄关注”，一个用户悄悄关注的人，不出现在这个用户的关注列表上，但系统会推送其悄悄关注的人发表的微博给该用户。现在我们来做一回网络侦探，根据某人的关注列表和其对其他用户的点赞情况，扒出有可能被其悄悄关注的人。">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-04-09T11:29:03.346Z">
+<meta property="og:updated_time" content="2019-04-12T11:23:45.657Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="L2-006 树的遍历">
-<meta name="twitter:description" content="天梯赛 L2-006 树的遍历题意：给定一棵二叉树的后序遍历和中序遍历，请你输出其层序遍历的序列。这里假设键值都是互不相等的正整数。">
+<meta name="twitter:title" content="L2-019 悄悄关注">
+<meta name="twitter:description" content="天梯赛 L2-019 悄悄关注题意 新浪微博上有个“悄悄关注”，一个用户悄悄关注的人，不出现在这个用户的关注列表上，但系统会推送其悄悄关注的人发表的微博给该用户。现在我们来做一回网络侦探，根据某人的关注列表和其对其他用户的点赞情况，扒出有可能被其悄悄关注的人。">
 
 
 
@@ -138,13 +138,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/posts/a8cec2de.html">
+  <link rel="canonical" href="http://yoursite.com/posts/c63dfda6.html">
 
 
 
 
 
-  <title>L2-006 树的遍历 | Yl的无名小站</title>
+  <title>L2-019 悄悄关注 | Yl的无名小站</title>
   
 
 
@@ -346,7 +346,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/posts/a8cec2de.html">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/posts/c63dfda6.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="yl">
@@ -363,7 +363,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">L2-006 树的遍历</h1>
+          <h1 class="post-title" itemprop="name headline">L2-019 悄悄关注</h1>
         
 
         <div class="post-meta">
@@ -376,8 +376,8 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2019-04-08T20:18:57+08:00">
-                2019-04-08
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2019-04-12T19:20:34+08:00">
+                2019-04-12
               </time>
             
 
@@ -392,8 +392,8 @@
               
                 <span class="post-meta-item-text">更新于&#58;</span>
               
-              <time title="更新于" itemprop="dateModified" datetime="2019-04-09T19:29:03+08:00">
-                2019-04-09
+              <time title="更新于" itemprop="dateModified" datetime="2019-04-12T19:23:45+08:00">
+                2019-04-12
               </time>
             
           </span>
@@ -447,7 +447,7 @@
                   <span class="post-meta-item-text">字数统计&#58;</span>
                 
                 <span title="字数统计">
-                  665
+                  1.2k
                 </span>
               
 
@@ -463,7 +463,7 @@
                   <span class="post-meta-item-text">阅读时长 &asymp;</span>
                 
                 <span title="阅读时长">
-                  3
+                  5
                 </span>
               
             </div>
@@ -484,25 +484,40 @@
       
 
       
-        <h2 id="天梯赛-L2-006-树的遍历"><a href="#天梯赛-L2-006-树的遍历" class="headerlink" title="天梯赛 L2-006 树的遍历"></a>天梯赛 L2-006 树的遍历</h2><h3 id="题意："><a href="#题意：" class="headerlink" title="题意："></a>题意：</h3><p>给定一棵二叉树的后序遍历和中序遍历，请你输出其层序遍历的序列。这里假设键值都是互不相等的正整数。<br><a id="more"></a></p>
-<h3 id="输入格式："><a href="#输入格式：" class="headerlink" title="输入格式："></a><strong>输入格式：</strong></h3><blockquote>
-<p>输入第一行给出一个正整数N（≤30），是二叉树中结点的个数。第二行给出其后序遍历序列。第三行给出其中序遍历序列。数字间以空格分隔。</p>
+        <h1 id="天梯赛-L2-019-悄悄关注"><a href="#天梯赛-L2-019-悄悄关注" class="headerlink" title="天梯赛 L2-019 悄悄关注"></a>天梯赛 L2-019 悄悄关注</h1><h2 id="题意"><a href="#题意" class="headerlink" title="题意"></a>题意</h2><blockquote>
+<p>新浪微博上有个“悄悄关注”，一个用户悄悄关注的人，不出现在这个用户的关注列表上，但系统会推送其悄悄关注的人发表的微博给该用户。现在我们来做一回网络侦探，根据某人的关注列表和其对其他用户的点赞情况，扒出有可能被其悄悄关注的人。</p>
 </blockquote>
-<h3 id="输出格式："><a href="#输出格式：" class="headerlink" title="输出格式："></a><strong>输出格式：</strong></h3><blockquote>
-<p>在一行中输出该树的层序遍历的序列。数字间以1个空格分隔，行首尾不得有多余空格。</p>
+<a id="more"></a>
+<h2 id="输入格式："><a href="#输入格式：" class="headerlink" title="输入格式："></a>输入格式：</h2><blockquote>
+<p>输入首先在第一行给出某用户的关注列表，格式如下：<br>人数N 用户1 用户2 …… 用户N<br>其中N是不超过5000的正整数，每个用户i（i=1, …, N）是被其关注的用户的ID，是长度为4位的由数字和英文字母组成的字符串，各项间以空格分隔。<br>之后给出该用户点赞的信息：首先给出一个不超过10000的正整数M，随后M行，每行给出一个被其点赞的用户ID和对该用户的点赞次数（不超过1000），以空格分隔。注意：用户ID是一个用户的唯一身份标识。题目保证在关注列表中没有重复用户，在点赞信息中也没有重复用户。</p>
 </blockquote>
-<h3 id="输入样例："><a href="#输入样例：" class="headerlink" title="输入样例："></a><strong>输入样例：</strong></h3><blockquote>
-<p>7<br>2 3 1 5 7 6 4<br>1 2 3 4 5 6 7</p>
+<h2 id="输出格式："><a href="#输出格式：" class="headerlink" title="输出格式："></a>输出格式：</h2><blockquote>
+<p>我们认为被该用户点赞次数大于其点赞平均数、且不在其关注列表上的人，很可能是其悄悄关注的人。根据这个假设，请你按用户ID字母序的升序输出可能是其悄悄关注的人，每行1个ID。如果其实并没有这样的人，则输出“Bing Mei You”。</p>
 </blockquote>
-<h3 id="输出样例："><a href="#输出样例：" class="headerlink" title="输出样例："></a><strong>输出样例：</strong></h3><blockquote>
-<p>4 1 6 3 5 7 2</p>
+<h2 id="输入样例1："><a href="#输入样例1：" class="headerlink" title="输入样例1："></a>输入样例1：</h2><blockquote>
+<p>10 GAO3 Magi Zha1 Sen1 Quan FaMK LSum Eins FatM LLao<br>8<br>Magi 50<br>Pota 30<br>LLao 3<br>Ammy 48<br>Dave 15<br>GAO3 31<br>Zoro 1<br>Cath 60</p>
 </blockquote>
-<h3 id="树的遍历方式："><a href="#树的遍历方式：" class="headerlink" title="树的遍历方式："></a>树的遍历方式：</h3><blockquote>
-<p>前序遍历：根-&gt;左-&gt;右<br>中序遍历: 左-&gt;根-&gt;右<br>后序遍历: 左-&gt;右-&gt;根</p>
+<h2 id="输出样例1："><a href="#输出样例1：" class="headerlink" title="输出样例1："></a>输出样例1：</h2><blockquote>
+<p>Ammy<br>Cath<br>Pota</p>
 </blockquote>
-<p>根据树的遍历方式建树,然后BFS输出</p>
-<h3 id="代码："><a href="#代码：" class="headerlink" title="代码："></a>代码：</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br></pre></td><td class="code"><pre><span class="line">#include&lt;cstdio&gt;</span><br><span class="line">#include&lt;iostream&gt;</span><br><span class="line">#include&lt;queue&gt;</span><br><span class="line">using namespace std;</span><br><span class="line"></span><br><span class="line">struct Node&#123;</span><br><span class="line">	int root;		//根节点 </span><br><span class="line">	Node *l;	//左孩子 </span><br><span class="line">	Node *r;	//右孩子 </span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line">Node *tree=NULL;</span><br><span class="line">//根据中序遍历和后序遍历建立二叉树 </span><br><span class="line">//mid:中序遍历，post:后序遍历,len:当前树的长度 </span><br><span class="line">Node *build(int *mid,int *post,int len)&#123;</span><br><span class="line">	if(len==0)</span><br><span class="line">		return NULL;</span><br><span class="line">	//后序遍历最后一个就是根节点	</span><br><span class="line">	//在中序遍历中寻找根节点的位置，其左侧为左子树，右侧为右子树 </span><br><span class="line">	int i = 0;</span><br><span class="line">	while(post[len-1]!=mid[i])</span><br><span class="line">		i++;</span><br><span class="line">	Node *t = new Node;</span><br><span class="line">	t-&gt;root = post[len-1];		//存入根节点 </span><br><span class="line">	//左子树的中序遍历为mid[0]~mid[i-1],</span><br><span class="line">	//后序遍历为post[0]~post[i-1]，其长度为i </span><br><span class="line">	t-&gt;l = build(mid,post,i);</span><br><span class="line">	//右子树的中序遍历为mid[i+1]~mid[len],</span><br><span class="line">	//后序遍历为post[i]~post[len-1],其长度为len-i-1 </span><br><span class="line">	t-&gt;r = build(mid+i+1,post+i,len-i-1);</span><br><span class="line">	return t;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">void bfs(Node *t)&#123;</span><br><span class="line">	queue&lt;Node *&gt;q;</span><br><span class="line">	//将根节点的左右孩子存入队列q </span><br><span class="line">	if(t-&gt;l)</span><br><span class="line">		q.push(t-&gt;l);		</span><br><span class="line">	if(t-&gt;r)</span><br><span class="line">		q.push(t-&gt;r);</span><br><span class="line">	cout&lt;&lt;t-&gt;root;			//输出根节点</span><br><span class="line">	while(!q.empty())&#123;	</span><br><span class="line">		Node* temp = q.front();	//返回最先进入的节点 作为根节点 </span><br><span class="line">		q.pop();	//将最先进入的节点从队列删除 </span><br><span class="line">		cout&lt;&lt;&quot; &quot;&lt;&lt;temp-&gt;root;	//输出当前的根节点 </span><br><span class="line">		if(temp-&gt;l)		//左孩子入队 </span><br><span class="line">			q.push(temp-&gt;l);</span><br><span class="line">		if(temp-&gt;r)		//右孩子入队 </span><br><span class="line">			q.push(temp-&gt;r);</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">int main()&#123;</span><br><span class="line">	int n;</span><br><span class="line">	cin&gt;&gt;n;</span><br><span class="line">	int mid[n];</span><br><span class="line">	int post[n];</span><br><span class="line">	for(int i = 0;i&lt;n;++i)</span><br><span class="line">		cin&gt;&gt;post[i];</span><br><span class="line">	for(int i =0;i&lt;n;++i)</span><br><span class="line">		cin&gt;&gt;mid[i];</span><br><span class="line">	tree = build(mid,post,n);</span><br><span class="line">	bfs(tree);</span><br><span class="line">	return 0;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h3 id="题目链接-L2-006-树的遍历"><a href="#题目链接-L2-006-树的遍历" class="headerlink" title="题目链接:L2-006 树的遍历"></a>题目链接:<a href="https://pintia.cn/problem-sets/994805046380707840/problems/994805069361299456" target="_blank" rel="noopener">L2-006 树的遍历</a></h3>
+<h2 id="输入样例2："><a href="#输入样例2：" class="headerlink" title="输入样例2："></a>输入样例2：</h2><blockquote>
+<p>11 GAO3 Magi Zha1 Sen1 Quan FaMK LSum Eins FatM LLao Pota<br>7<br>Magi 50<br>Pota 30<br>LLao 48<br>Ammy 3<br>Dave 15<br>GAO3 31<br>Zoro 29</p>
+</blockquote>
+<h2 id="输出样例2："><a href="#输出样例2：" class="headerlink" title="输出样例2："></a>输出样例2：</h2><blockquote>
+<p>Bing Mei You</p>
+</blockquote>
+<h2 id="思路1："><a href="#思路1：" class="headerlink" title="思路1："></a>思路1：</h2><blockquote>
+<p>emmmm,首先储存已经关注了的人的姓名，(刚开始我是用字符串数组储存的，然后在后面输入点赞人的姓名我需要一个个的去判断是否已经关注，导致程序最后一组数据一直超时)，然后看了下别人的，发现别人用的set储存，因为set是用红黑树实现的(它可以在O(log n)时间内做查找，插入和删除，这里的n 是树中元素的数目),然后就改为用set存储已经关注了的人的姓名，然后统计没有关注的点赞信息，sort排序输出。</p>
+</blockquote>
+<h2 id="代码1："><a href="#代码1：" class="headerlink" title="代码1："></a>代码1：</h2><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cmath&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;algorithm&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstring&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;vector&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;set&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;queue&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;map&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iomanip&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;fstream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> <span class="keyword">int</span> Max = <span class="number">20000</span>;</span><br><span class="line"><span class="class"><span class="keyword">struct</span> <span class="title">infor</span>&#123;</span></span><br><span class="line">	<span class="built_in">string</span> name;	<span class="comment">//姓名 </span></span><br><span class="line">	<span class="keyword">int</span> awesome;	<span class="comment">//点赞数 </span></span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> N,M,num,Awe,Ave = <span class="number">0</span>;</span><br><span class="line"><span class="built_in">string</span> Nam;</span><br><span class="line">infor s[Max];</span><br><span class="line"><span class="built_in">set</span>&lt;<span class="built_in">string</span>&gt;S;</span><br><span class="line"><span class="function"><span class="keyword">bool</span> <span class="title">cmp</span><span class="params">(infor a,infor b)</span></span>&#123;</span><br><span class="line">	<span class="keyword">return</span> a.name&lt;b.name;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">	<span class="built_in">cin</span>&gt;&gt;N;</span><br><span class="line">	num = N;</span><br><span class="line">	<span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">0</span> ;i&lt;N;++i)&#123;	<span class="comment">//输入关注的用户</span></span><br><span class="line">		<span class="built_in">cin</span>&gt;&gt;Nam;</span><br><span class="line">		S.insert(Nam);</span><br><span class="line">	&#125;</span><br><span class="line">	<span class="built_in">cin</span>&gt;&gt;M;</span><br><span class="line">	<span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">0</span>;i&lt;M;++i)&#123;</span><br><span class="line">		<span class="built_in">cin</span>&gt;&gt;Nam&gt;&gt;Awe;	<span class="comment">//输入点赞的信息 </span></span><br><span class="line">		<span class="keyword">if</span>(S.find(Nam)==S.end())&#123;		<span class="comment">//如果Nam没有被关注，则添加到s中去 </span></span><br><span class="line">			s[num].name=Nam;</span><br><span class="line">			s[num].awesome=Awe;</span><br><span class="line">		&#125;</span><br><span class="line">		Ave+=Awe; </span><br><span class="line">		num++;</span><br><span class="line">	&#125;</span><br><span class="line">	Ave/=M;		<span class="comment">//计算平均点赞数</span></span><br><span class="line">	sort(s,s+num,cmp);</span><br><span class="line">	<span class="keyword">bool</span> flag = <span class="literal">false</span>;</span><br><span class="line">	<span class="keyword">for</span>(<span class="keyword">int</span> j=<span class="number">0</span>;j&lt;num;++j)</span><br><span class="line">		<span class="keyword">if</span>(s[j].awesome&gt;Ave)&#123;</span><br><span class="line">			flag = <span class="literal">true</span>;</span><br><span class="line">			<span class="built_in">cout</span>&lt;&lt;s[j].name&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">		&#125;</span><br><span class="line">	<span class="keyword">if</span>(!flag)</span><br><span class="line">		<span class="built_in">cout</span>&lt;&lt;<span class="string">"Bing Mei You"</span>;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">	</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="思路2"><a href="#思路2" class="headerlink" title="思路2:"></a>思路2:</h2><blockquote>
+<p>后来又在网上看到了别人用map+set写的代码，发现更加简洁0.0,(因为map中的键是已经按照字典序排序过的，所以直接输出就可以)</p>
+</blockquote>
+<h2 id="代码2："><a href="#代码2：" class="headerlink" title="代码2："></a>代码2：</h2><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cmath&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;algorithm&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstring&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;string.h&gt; </span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;vector&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;set&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;queue&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;map&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iomanip&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;fstream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> N, M, Ave = <span class="number">0</span>,awe;</span><br><span class="line"><span class="keyword">bool</span> flag = <span class="literal">false</span>;</span><br><span class="line"><span class="built_in">set</span>&lt;<span class="built_in">string</span>&gt; s;		<span class="comment">//储存已经关注了的人 </span></span><br><span class="line"><span class="built_in">map</span>&lt;<span class="built_in">string</span>, <span class="keyword">int</span>&gt; m;	<span class="comment">//储存没有关注的人 </span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span> </span>&#123;</span><br><span class="line">    <span class="built_in">string</span> name;</span><br><span class="line">    <span class="built_in">cin</span>&gt;&gt;N;</span><br><span class="line">    <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>;i&lt;N;i++) &#123;</span><br><span class="line">        <span class="built_in">cin</span>&gt;&gt;name;</span><br><span class="line">        s.insert(name);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="built_in">cin</span> &gt;&gt; M;</span><br><span class="line">    <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>;i&lt;M;i++) &#123;</span><br><span class="line">        <span class="built_in">cin</span>&gt;&gt;name&gt;&gt;awe;</span><br><span class="line">        m[name] = awe;</span><br><span class="line">        Ave += awe;</span><br><span class="line">    &#125;</span><br><span class="line">    Ave /= M;</span><br><span class="line">    <span class="built_in">map</span>&lt;<span class="built_in">string</span>,<span class="keyword">int</span>&gt;::iterator it;</span><br><span class="line">    <span class="keyword">for</span> (it=m.begin();it!=m.end();it++)</span><br><span class="line">        <span class="keyword">if</span> (it-&gt;second&gt;Ave&amp;&amp;s.find(it-&gt;first)==s.end()) &#123;</span><br><span class="line">            <span class="built_in">cout</span>&lt;&lt;it-&gt;first&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">            flag = <span class="literal">true</span>;</span><br><span class="line">        &#125;</span><br><span class="line">    <span class="keyword">if</span> (!flag) </span><br><span class="line">		<span class="built_in">cout</span>&lt;&lt;<span class="string">"Bing Mei You"</span>;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="题目链接："><a href="#题目链接：" class="headerlink" title="题目链接："></a>题目链接：</h2><blockquote>
+<p><a href="https://pintia.cn/problem-sets/994805046380707840/problems/994805059731177472" target="_blank" rel="noopener">L2-019 悄悄关注</a><br><a href="https://www.cnblogs.com/fnlingnzb-learner/p/5833051.html" target="_blank" rel="noopener">map常用用法</a></p>
+</blockquote>
+
       
     </div>
     
@@ -529,7 +544,9 @@
       
         <div class="post-tags">
           
-            <a href="/tags/树的遍历/" rel="tag"><i class="fa fa-tag"></i> 树的遍历</a>
+            <a href="/tags/排序/" rel="tag"><i class="fa fa-tag"></i> 排序</a>
+          
+            <a href="/tags/STL/" rel="tag"><i class="fa fa-tag"></i> STL</a>
           
         </div>
       
@@ -542,8 +559,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/posts/f1d28770.html" rel="next" title="定积分的概念与性质">
-                <i class="fa fa-chevron-left"></i> 定积分的概念与性质
+              <a href="/posts/3c082050.html" rel="next" title="L2-009 抢红包">
+                <i class="fa fa-chevron-left"></i> L2-009 抢红包
               </a>
             
           </div>
@@ -551,10 +568,6 @@
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
-            
-              <a href="/posts/3fbdf6a5.html" rel="prev" title="L2-011 玩转二叉树">
-                L2-011 玩转二叉树 <i class="fa fa-chevron-right"></i>
-              </a>
             
           </div>
         </div>
@@ -688,7 +701,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#天梯赛-L2-006-树的遍历"><span class="nav-number">1.</span> <span class="nav-text">天梯赛 L2-006 树的遍历</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#题意："><span class="nav-number">1.1.</span> <span class="nav-text">题意：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#输入格式："><span class="nav-number">1.2.</span> <span class="nav-text">输入格式：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#输出格式："><span class="nav-number">1.3.</span> <span class="nav-text">输出格式：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#输入样例："><span class="nav-number">1.4.</span> <span class="nav-text">输入样例：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#输出样例："><span class="nav-number">1.5.</span> <span class="nav-text">输出样例：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#树的遍历方式："><span class="nav-number">1.6.</span> <span class="nav-text">树的遍历方式：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#代码："><span class="nav-number">1.7.</span> <span class="nav-text">代码：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#题目链接-L2-006-树的遍历"><span class="nav-number">1.8.</span> <span class="nav-text">题目链接:L2-006 树的遍历</span></a></li></ol></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#天梯赛-L2-019-悄悄关注"><span class="nav-number">1.</span> <span class="nav-text">天梯赛 L2-019 悄悄关注</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#题意"><span class="nav-number">1.1.</span> <span class="nav-text">题意</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#输入格式："><span class="nav-number">1.2.</span> <span class="nav-text">输入格式：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#输出格式："><span class="nav-number">1.3.</span> <span class="nav-text">输出格式：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#输入样例1："><span class="nav-number">1.4.</span> <span class="nav-text">输入样例1：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#输出样例1："><span class="nav-number">1.5.</span> <span class="nav-text">输出样例1：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#输入样例2："><span class="nav-number">1.6.</span> <span class="nav-text">输入样例2：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#输出样例2："><span class="nav-number">1.7.</span> <span class="nav-text">输出样例2：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#思路1："><span class="nav-number">1.8.</span> <span class="nav-text">思路1：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#代码1："><span class="nav-number">1.9.</span> <span class="nav-text">代码1：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#思路2"><span class="nav-number">1.10.</span> <span class="nav-text">思路2:</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#代码2："><span class="nav-number">1.11.</span> <span class="nav-text">代码2：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#题目链接："><span class="nav-number">1.12.</span> <span class="nav-text">题目链接：</span></a></li></ol></li></ol></div>
             
 
           </div>
