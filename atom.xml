@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-12T11:23:45.657Z</updated>
+  <updated>2019-04-14T08:12:13.936Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>L2-010 排座位</title>
+    <link href="http://yoursite.com/posts/439b4d9c.html"/>
+    <id>http://yoursite.com/posts/439b4d9c.html</id>
+    <published>2019-04-14T08:10:44.000Z</published>
+    <updated>2019-04-14T08:12:13.936Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;L2-010-排座位&quot;&gt;&lt;a href=&quot;#L2-010-排座位&quot; class=&quot;headerlink&quot; title=&quot;L2-010 排座位&quot;&gt;&lt;/a&gt;L2-010 排座位&lt;/h1&gt;&lt;h2 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;布置宴席最微妙的事情，就是给前来参宴的各位宾客安排座位。无论如何，总不能把两个死对头排到同一张宴会桌旁！这个艰巨任务现在就交给你，对任何一对客人，请编写程序告诉主人他们是否能被安排同席。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="PTA" scheme="http://yoursite.com/categories/PTA/"/>
+    
+    
+      <category term="并查集" scheme="http://yoursite.com/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
+    
+  </entry>
   
   <entry>
     <title>L2-019 悄悄关注</title>
