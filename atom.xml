@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-15T04:51:07.415Z</updated>
+  <updated>2019-04-15T04:51:34.259Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/posts/6c656787.html"/>
     <id>http://yoursite.com/posts/6c656787.html</id>
     <published>2019-04-15T04:49:37.000Z</published>
-    <updated>2019-04-15T04:51:07.415Z</updated>
+    <updated>2019-04-15T04:51:34.259Z</updated>
     
     <summary type="html">
     
@@ -171,59 +171,6 @@
   </entry>
   
   <entry>
-    <title>高数01</title>
-    <link href="http://yoursite.com/posts/2be819a9.html"/>
-    <id>http://yoursite.com/posts/2be819a9.html</id>
-    <published>2019-04-10T10:10:30.000Z</published>
-    <updated>2019-04-11T05:59:13.580Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;函数求导后奇偶性互换，周期性不变。&lt;br&gt;奇函数$f(0)=0$&lt;/p&gt;
-&lt;h3 id=&quot;基本类型&quot;&gt;&lt;a href=&quot;#基本类型&quot; class=&quot;headerlink&quot; title=&quot;基本类型&quot;&gt;&lt;/a&gt;基本类型&lt;/h3&gt;&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;$f(x)+f(-x)$偶函数&lt;/li&gt;
-&lt;li&gt;$f(x)-f(-x)$奇函数&lt;/li&gt;
-&lt;li&gt;$f[\varphi (x)] $&lt;br&gt;奇[偶]-&amp;gt;偶&lt;br&gt;偶[奇]-&amp;gt;偶&lt;br&gt;奇[奇]-&amp;gt;奇&lt;br&gt;偶[偶]-&amp;gt;偶&lt;br&gt;非[偶]-&amp;gt;偶&lt;/li&gt;
-&lt;li&gt;$ln(x+\sqrt{1+x^2})$奇函数，求导为$\frac{1}{\sqrt(1+x^2)}$&lt;/li&gt;
-&lt;li&gt;$f(x)\rightarrow \int_{0}^{x}f(t)dt$&lt;br&gt;奇偶互换,0下限积分后奇变偶，偶变奇&lt;/li&gt;
-&lt;li&gt;$\forall x,y,f(x+y)=f(x)+f(y)$奇函数&lt;br&gt;分别取y=0,y=-x可证
-    
-    </summary>
-    
-      <category term="高数" scheme="http://yoursite.com/categories/%E9%AB%98%E6%95%B0/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>微积分基本公式</title>
-    <link href="http://yoursite.com/posts/7b8f5b7e.html"/>
-    <id>http://yoursite.com/posts/7b8f5b7e.html</id>
-    <published>2019-04-10T03:24:40.000Z</published>
-    <updated>2019-04-11T07:36:18.360Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;微积分基本公式&quot;&gt;&lt;a href=&quot;#微积分基本公式&quot; class=&quot;headerlink&quot; title=&quot;微积分基本公式&quot;&gt;&lt;/a&gt;微积分基本公式&lt;/h1&gt;&lt;h2 id=&quot;变上限积分公式&quot;&gt;&lt;a href=&quot;#变上限积分公式&quot; class=&quot;headerlink&quot; title=&quot;变上限积分公式&quot;&gt;&lt;/a&gt;变上限积分公式&lt;/h2&gt;&lt;h3 id=&quot;定义1：&quot;&gt;&lt;a href=&quot;#定义1：&quot; class=&quot;headerlink&quot; title=&quot;定义1：&quot;&gt;&lt;/a&gt;定义1：&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;设$f(x)$在$[a,b]$上可积，$\forall x_{0}\in [a,b]$,则$F(x) = \int_{x_{0}}^{x}f(t)dt(a\leq x\leq b)$,称为变上限积分公式。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&quot;定理1：&quot;&gt;&lt;a href=&quot;#定理1：&quot; class=&quot;headerlink&quot; title=&quot;定理1：&quot;&gt;&lt;/a&gt;定理1：&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;设$f(x)$在$[a,b]$上可积，则$F(x)= \int_{x_{0}}^{x}f(t)dt$在$[a,b]$上连续。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&quot;定理2：&quot;&gt;&lt;a href=&quot;#定理2：&quot; class=&quot;headerlink&quot; title=&quot;定理2：&quot;&gt;&lt;/a&gt;定理2：&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;设$f(x)$在$[a,b]$上连续，则$F(x)= \int_{x_{0}}^{x}f(t)dt$在$[a,b]$上可导，且${F}’(x) = {(\int_{x_{0}}^{x}f(t)dt)}’ = f(t)&lt;br&gt;$&lt;br&gt;
-    
-    </summary>
-    
-      <category term="高数" scheme="http://yoursite.com/categories/%E9%AB%98%E6%95%B0/"/>
-    
-    
-      <category term="积分" scheme="http://yoursite.com/tags/%E7%A7%AF%E5%88%86/"/>
-    
-  </entry>
-  
-  <entry>
     <title>L2-011 玩转二叉树</title>
     <link href="http://yoursite.com/posts/3fbdf6a5.html"/>
     <id>http://yoursite.com/posts/3fbdf6a5.html</id>
@@ -321,29 +268,6 @@
     
     
       <category term="STL" scheme="http://yoursite.com/tags/STL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>有理函数的积分</title>
-    <link href="http://yoursite.com/posts/50c60f00.html"/>
-    <id>http://yoursite.com/posts/50c60f00.html</id>
-    <published>2019-04-06T10:32:43.000Z</published>
-    <updated>2019-04-09T11:29:03.350Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;两个多项式的商$\frac{P\left ( x \right )}{Q\left ( x\right)}$称为&lt;strong&gt;&lt;em&gt;有理函数&lt;/em&gt;&lt;/strong&gt;。这里假设$Q(x)$已被因式分解，并且$P(x)$的次数小于$Q(x)$的次数(&lt;strong&gt;&lt;e
-      
-    
-    </summary>
-    
-      <category term="高数" scheme="http://yoursite.com/categories/%E9%AB%98%E6%95%B0/"/>
-    
-    
-      <category term="积分" scheme="http://yoursite.com/tags/%E7%A7%AF%E5%88%86/"/>
     
   </entry>
   
