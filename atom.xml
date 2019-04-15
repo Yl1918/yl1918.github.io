@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-14T14:39:10.153Z</updated>
+  <updated>2019-04-15T04:51:07.415Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>L2-017 人以群分</title>
+    <link href="http://yoursite.com/posts/6c656787.html"/>
+    <id>http://yoursite.com/posts/6c656787.html</id>
+    <published>2019-04-15T04:49:37.000Z</published>
+    <updated>2019-04-15T04:51:07.415Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;天梯赛-L2-017-人以群分&quot;&gt;&lt;a href=&quot;#天梯赛-L2-017-人以群分&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-017 人以群分&quot;&gt;&lt;/a&gt;天梯赛 L2-017 人以群分&lt;/h2&gt;&lt;h1 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;社交网络中我们给每个人定义了一个“活跃度”，现希望根据这个指标把人群分为两大类，即外向型（outgoing，即活跃度高的）和内向型（introverted，即活跃度低的）。要求两类人群的规模尽可能接近，而他们的总活跃度差距尽可能拉开。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>L2-014 列车调度</title>
@@ -78,9 +98,9 @@
       <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
     
     
-      <category term="排序" scheme="http://yoursite.com/tags/%E6%8E%92%E5%BA%8F/"/>
-    
       <category term="STL" scheme="http://yoursite.com/tags/STL/"/>
+    
+      <category term="排序" scheme="http://yoursite.com/tags/%E6%8E%92%E5%BA%8F/"/>
     
   </entry>
   
