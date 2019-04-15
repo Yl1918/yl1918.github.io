@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-15T04:51:34.259Z</updated>
+  <updated>2019-04-15T10:40:41.332Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>L2-021 点赞狂魔</title>
+    <link href="http://yoursite.com/posts/2cc80ab3.html"/>
+    <id>http://yoursite.com/posts/2cc80ab3.html</id>
+    <published>2019-04-15T10:39:07.000Z</published>
+    <updated>2019-04-15T10:40:41.332Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;天梯赛-L2-021-点赞狂魔&quot;&gt;&lt;a href=&quot;#天梯赛-L2-021-点赞狂魔&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-021 点赞狂魔&quot;&gt;&lt;/a&gt;天梯赛 L2-021 点赞狂魔&lt;/h2&gt;&lt;h1 id=&quot;题意&quot;&gt;&lt;a href=&quot;#题意&quot; class=&quot;headerlink&quot; title=&quot;题意:&quot;&gt;&lt;/a&gt;题意:&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;微博上有个“点赞”功能，你可以为你喜欢的博文点个赞表示支持。每篇博文都有一些刻画其特性的标签，而你点赞的博文的类型，也间接刻画了你的特性。然而有这么一种人，他们会通过给自己看到的一切内容点赞来狂刷存在感，这种人就被称为“点赞狂魔”。他们点赞的标签非常分散，无法体现出明显的特性。本题就要求你写个程序，通过统计每个人点赞的不同标签的数量，找出前3名点赞狂魔。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
+    
+    
+      <category term="STL" scheme="http://yoursite.com/tags/STL/"/>
+    
+  </entry>
   
   <entry>
     <title>L2-017 人以群分</title>
@@ -278,7 +300,7 @@
     <link href="http://yoursite.com/posts/edc6676d.html"/>
     <id>http://yoursite.com/posts/edc6676d.html</id>
     <published>2019-04-02T13:59:51.257Z</published>
-    <updated>2019-04-15T03:56:47.195Z</updated>
+    <updated>2019-04-15T10:41:28.241Z</updated>
     
     <summary type="html">
     
