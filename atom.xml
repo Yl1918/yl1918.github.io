@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-15T10:55:34.332Z</updated>
+  <updated>2019-04-16T13:19:52.401Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>L2-024 部落</title>
+    <link href="http://yoursite.com/posts/17e57f3f.html"/>
+    <id>http://yoursite.com/posts/17e57f3f.html</id>
+    <published>2019-04-16T13:18:45.000Z</published>
+    <updated>2019-04-16T13:19:52.401Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;天梯赛-L2-024-部落&quot;&gt;&lt;a href=&quot;#天梯赛-L2-024-部落&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-024 部落&quot;&gt;&lt;/a&gt;天梯赛 L2-024 部落&lt;/h2&gt;&lt;h1 id=&quot;题意&quot;&gt;&lt;a href=&quot;#题意&quot; class=&quot;headerlink&quot; title=&quot;题意:&quot;&gt;&lt;/a&gt;题意:&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;在一个社区里，每个人都有自己的小圈子，还可能同时属于很多不同的朋友圈。我们认为朋友的朋友都算在一个部落里，于是要请你统计一下，在一个给定社区中，到底有多少个互不相交的部落？并且检查任意两个人是否属于同一个部落。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
+    
+    
+      <category term="并查集" scheme="http://yoursite.com/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
+    
+  </entry>
   
   <entry>
     <title>L2-021 点赞狂魔</title>
