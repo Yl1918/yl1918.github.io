@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-16T13:57:56.706Z</updated>
+  <updated>2019-04-17T03:41:04.257Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>L2-026 小字辈</title>
+    <link href="http://yoursite.com/posts/3c538b0.html"/>
+    <id>http://yoursite.com/posts/3c538b0.html</id>
+    <published>2019-04-17T03:39:56.000Z</published>
+    <updated>2019-04-17T03:41:04.257Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;天梯赛-L2-026-小字辈&quot;&gt;&lt;a href=&quot;#天梯赛-L2-026-小字辈&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-026 小字辈&quot;&gt;&lt;/a&gt;天梯赛 L2-026 小字辈&lt;/h1&gt;&lt;h2 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;本题给定一个庞大家族的家谱，要请你给出最小一辈的名单。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
+    
+    
+      <category term="dfs" scheme="http://yoursite.com/tags/dfs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>123</title>
+    <link href="http://yoursite.com/posts/884863d2.html"/>
+    <id>http://yoursite.com/posts/884863d2.html</id>
+    <published>2019-04-16T14:01:06.000Z</published>
+    <updated>2019-04-17T03:41:04.251Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>L2-024 部落</title>
