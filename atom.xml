@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-17T11:42:51.653Z</updated>
+  <updated>2019-04-19T15:06:47.675Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>L2-027 名人堂与代金券</title>
+    <link href="http://yoursite.com/posts/84b150.html"/>
+    <id>http://yoursite.com/posts/84b150.html</id>
+    <published>2019-04-19T15:05:42.000Z</published>
+    <updated>2019-04-19T15:06:47.675Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;天梯赛-L2-027-名人堂与代金券&quot;&gt;&lt;a href=&quot;#天梯赛-L2-027-名人堂与代金券&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-027 名人堂与代金券&quot;&gt;&lt;/a&gt;天梯赛 L2-027 名人堂与代金券&lt;/h1&gt;&lt;h2 id=&quot;题意&quot;&gt;&lt;a href=&quot;#题意&quot; class=&quot;headerlink&quot; title=&quot;题意:&quot;&gt;&lt;/a&gt;题意:&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;对于在中国大学MOOC（&lt;a href=&quot;http://www.icourse163.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.icourse163.org/&lt;/a&gt; ）学习“数据结构”课程的学生，想要获得一张合格证书，总评成绩必须达到 60 分及以上，并且有另加福利：总评分在 [G, 100] 区间内者，可以得到 50 元 PAT 代金券；在 [60, G) 区间内者，可以得到 20 元PAT代金券。全国考点通用，一年有效。同时任课老师还会把总评成绩前 K 名的学生列入课程“名人堂”。本题就请你编写程序，帮助老师列出名人堂的学生，并统计一共发出了面值多少元的 PAT 代金券。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
+    
+    
+      <category term="排序" scheme="http://yoursite.com/tags/%E6%8E%92%E5%BA%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>L2-018 多项式A除以B</title>
