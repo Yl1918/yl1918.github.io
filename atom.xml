@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-19T15:06:47.675Z</updated>
+  <updated>2019-04-15T10:41:28.241Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,377 +17,10 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>L2-027 名人堂与代金券</title>
-    <link href="http://yoursite.com/posts/84b150.html"/>
-    <id>http://yoursite.com/posts/84b150.html</id>
-    <published>2019-04-19T15:05:42.000Z</published>
-    <updated>2019-04-19T15:06:47.675Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;天梯赛-L2-027-名人堂与代金券&quot;&gt;&lt;a href=&quot;#天梯赛-L2-027-名人堂与代金券&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-027 名人堂与代金券&quot;&gt;&lt;/a&gt;天梯赛 L2-027 名人堂与代金券&lt;/h1&gt;&lt;h2 id=&quot;题意&quot;&gt;&lt;a href=&quot;#题意&quot; class=&quot;headerlink&quot; title=&quot;题意:&quot;&gt;&lt;/a&gt;题意:&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;对于在中国大学MOOC（&lt;a href=&quot;http://www.icourse163.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.icourse163.org/&lt;/a&gt; ）学习“数据结构”课程的学生，想要获得一张合格证书，总评成绩必须达到 60 分及以上，并且有另加福利：总评分在 [G, 100] 区间内者，可以得到 50 元 PAT 代金券；在 [60, G) 区间内者，可以得到 20 元PAT代金券。全国考点通用，一年有效。同时任课老师还会把总评成绩前 K 名的学生列入课程“名人堂”。本题就请你编写程序，帮助老师列出名人堂的学生，并统计一共发出了面值多少元的 PAT 代金券。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
-    
-    
-      <category term="排序" scheme="http://yoursite.com/tags/%E6%8E%92%E5%BA%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>L2-018 多项式A除以B</title>
-    <link href="http://yoursite.com/posts/adc03f8a.html"/>
-    <id>http://yoursite.com/posts/adc03f8a.html</id>
-    <published>2019-04-17T11:32:52.000Z</published>
-    <updated>2019-04-17T11:42:51.653Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;天梯赛-L2-018-多项式A除以B&quot;&gt;&lt;a href=&quot;#天梯赛-L2-018-多项式A除以B&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-018 多项式A除以B&quot;&gt;&lt;/a&gt;天梯赛 L2-018 多项式A除以B&lt;/h1&gt;&lt;h2 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;这仍然是一道关于A/B的题，只不过A和B都换成了多项式。你需要计算两个多项式相除的商Q和余R，其中R的阶数必须小于B的阶数。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
-    
-    
-      <category term="模拟" scheme="http://yoursite.com/tags/%E6%A8%A1%E6%8B%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>L2-026 小字辈</title>
-    <link href="http://yoursite.com/posts/3c538b0.html"/>
-    <id>http://yoursite.com/posts/3c538b0.html</id>
-    <published>2019-04-17T03:39:56.000Z</published>
-    <updated>2019-04-17T11:39:13.017Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;天梯赛-L2-026-小字辈&quot;&gt;&lt;a href=&quot;#天梯赛-L2-026-小字辈&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-026 小字辈&quot;&gt;&lt;/a&gt;天梯赛 L2-026 小字辈&lt;/h1&gt;&lt;h2 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;本题给定一个庞大家族的家谱，要请你给出最小一辈的名单。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
-    
-    
-      <category term="dfs" scheme="http://yoursite.com/tags/dfs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>L2-024 部落</title>
-    <link href="http://yoursite.com/posts/17e57f3f.html"/>
-    <id>http://yoursite.com/posts/17e57f3f.html</id>
-    <published>2019-04-16T13:18:45.000Z</published>
-    <updated>2019-04-16T13:57:56.706Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;天梯赛-L2-024-部落&quot;&gt;&lt;a href=&quot;#天梯赛-L2-024-部落&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-024 部落&quot;&gt;&lt;/a&gt;天梯赛 L2-024 部落&lt;/h2&gt;&lt;h1 id=&quot;题意&quot;&gt;&lt;a href=&quot;#题意&quot; class=&quot;headerlink&quot; title=&quot;题意:&quot;&gt;&lt;/a&gt;题意:&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;在一个社区里，每个人都有自己的小圈子，还可能同时属于很多不同的朋友圈。我们认为朋友的朋友都算在一个部落里，于是要请你统计一下，在一个给定社区中，到底有多少个互不相交的部落？并且检查任意两个人是否属于同一个部落。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
-    
-    
-      <category term="并查集" scheme="http://yoursite.com/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>L2-021 点赞狂魔</title>
-    <link href="http://yoursite.com/posts/2cc80ab3.html"/>
-    <id>http://yoursite.com/posts/2cc80ab3.html</id>
-    <published>2019-04-15T10:39:07.000Z</published>
-    <updated>2019-04-16T13:57:49.826Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;天梯赛-L2-021-点赞狂魔&quot;&gt;&lt;a href=&quot;#天梯赛-L2-021-点赞狂魔&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-021 点赞狂魔&quot;&gt;&lt;/a&gt;天梯赛 L2-021 点赞狂魔&lt;/h2&gt;&lt;h1 id=&quot;题意&quot;&gt;&lt;a href=&quot;#题意&quot; class=&quot;headerlink&quot; title=&quot;题意:&quot;&gt;&lt;/a&gt;题意:&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;微博上有个“点赞”功能，你可以为你喜欢的博文点个赞表示支持。每篇博文都有一些刻画其特性的标签，而你点赞的博文的类型，也间接刻画了你的特性。然而有这么一种人，他们会通过给自己看到的一切内容点赞来狂刷存在感，这种人就被称为“点赞狂魔”。他们点赞的标签非常分散，无法体现出明显的特性。本题就要求你写个程序，通过统计每个人点赞的不同标签的数量，找出前3名点赞狂魔。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
-    
-    
-      <category term="STL" scheme="http://yoursite.com/tags/STL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>L2-017 人以群分</title>
-    <link href="http://yoursite.com/posts/6c656787.html"/>
-    <id>http://yoursite.com/posts/6c656787.html</id>
-    <published>2019-04-15T04:49:37.000Z</published>
-    <updated>2019-04-15T10:57:07.913Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;天梯赛-L2-017-人以群分&quot;&gt;&lt;a href=&quot;#天梯赛-L2-017-人以群分&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-017 人以群分&quot;&gt;&lt;/a&gt;天梯赛 L2-017 人以群分&lt;/h2&gt;&lt;h1 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;社交网络中我们给每个人定义了一个“活跃度”，现希望根据这个指标把人群分为两大类，即外向型（outgoing，即活跃度高的）和内向型（introverted，即活跃度低的）。要求两类人群的规模尽可能接近，而他们的总活跃度差距尽可能拉开。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>L2-014 列车调度</title>
-    <link href="http://yoursite.com/posts/f52a7b0a.html"/>
-    <id>http://yoursite.com/posts/f52a7b0a.html</id>
-    <published>2019-04-14T14:35:47.000Z</published>
-    <updated>2019-04-16T13:57:36.376Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;天梯赛-L2-014-列车调度&quot;&gt;&lt;a href=&quot;#天梯赛-L2-014-列车调度&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-014 列车调度 &quot;&gt;&lt;/a&gt;天梯赛 L2-014 列车调度 &lt;/h1&gt;&lt;h2 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;火车站的列车调度铁轨的结构如下图所示。&lt;br&gt;&lt;img src=&quot;https://images.ptausercontent.com/188&quot; alt&gt;&lt;br&gt;两端分别是一条入口（Entrance）轨道和一条出口（Exit）轨道，它们之间有N条平行的轨道。每趟列车从入口可以选择任意一条轨道进入，最后从出口离开。在图中有9趟列车，在入口处按照{8，4，2，5，3，9，1，6，7}的顺序排队等待进入。如果要求它们必须按序号递减的顺序从出口离开，则至少需要多少条平行铁轨用于调度？&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
-    
-    
-      <category term="STL" scheme="http://yoursite.com/tags/STL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>L2-010 排座位</title>
-    <link href="http://yoursite.com/posts/439b4d9c.html"/>
-    <id>http://yoursite.com/posts/439b4d9c.html</id>
-    <published>2019-04-14T08:10:44.000Z</published>
-    <updated>2019-04-15T10:54:00.652Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;天梯赛-L2-010-排座位&quot;&gt;&lt;a href=&quot;#天梯赛-L2-010-排座位&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-010 排座位&quot;&gt;&lt;/a&gt;天梯赛 L2-010 排座位&lt;/h1&gt;&lt;h2 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;布置宴席最微妙的事情，就是给前来参宴的各位宾客安排座位。无论如何，总不能把两个死对头排到同一张宴会桌旁！这个艰巨任务现在就交给你，对任何一对客人，请编写程序告诉主人他们是否能被安排同席。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
-    
-    
-      <category term="并查集" scheme="http://yoursite.com/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>L2-019 悄悄关注</title>
-    <link href="http://yoursite.com/posts/c63dfda6.html"/>
-    <id>http://yoursite.com/posts/c63dfda6.html</id>
-    <published>2019-04-12T11:20:34.000Z</published>
-    <updated>2019-04-15T10:55:17.683Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;天梯赛-L2-019-悄悄关注&quot;&gt;&lt;a href=&quot;#天梯赛-L2-019-悄悄关注&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-019 悄悄关注&quot;&gt;&lt;/a&gt;天梯赛 L2-019 悄悄关注&lt;/h1&gt;&lt;h2 id=&quot;题意&quot;&gt;&lt;a href=&quot;#题意&quot; class=&quot;headerlink&quot; title=&quot;题意&quot;&gt;&lt;/a&gt;题意&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;新浪微博上有个“悄悄关注”，一个用户悄悄关注的人，不出现在这个用户的关注列表上，但系统会推送其悄悄关注的人发表的微博给该用户。现在我们来做一回网络侦探，根据某人的关注列表和其对其他用户的点赞情况，扒出有可能被其悄悄关注的人。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
-    
-    
-      <category term="STL" scheme="http://yoursite.com/tags/STL/"/>
-    
-      <category term="排序" scheme="http://yoursite.com/tags/%E6%8E%92%E5%BA%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>L2-009 抢红包</title>
-    <link href="http://yoursite.com/posts/3c082050.html"/>
-    <id>http://yoursite.com/posts/3c082050.html</id>
-    <published>2019-04-12T05:23:34.000Z</published>
-    <updated>2019-04-15T10:53:48.398Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;天梯赛-L2-009-抢红包&quot;&gt;&lt;a href=&quot;#天梯赛-L2-009-抢红包&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-009 抢红包&quot;&gt;&lt;/a&gt;天梯赛 L2-009 抢红包&lt;/h1&gt;&lt;h2 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;没有人没抢过红包吧…… 这里给出N个人之间互相发红包、抢红包的记录，请你统计一下他们抢红包的收获。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
-    
-    
-      <category term="排序" scheme="http://yoursite.com/tags/%E6%8E%92%E5%BA%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>A+B问题</title>
-    <link href="http://yoursite.com/posts/6367e8f4.html"/>
-    <id>http://yoursite.com/posts/6367e8f4.html</id>
-    <published>2019-04-11T06:30:23.000Z</published>
-    <updated>2019-04-11T07:56:27.424Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;A-B问题&quot;&gt;&lt;a href=&quot;#A-B问题&quot; class=&quot;headerlink&quot; title=&quot;A+B问题&quot;&gt;&lt;/a&gt;A+B问题&lt;/h1&gt;&lt;h2 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;给出两个整数 a 和 b , 求他们的和。&lt;br&gt;(不使用+等运算符)&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="lintcode" scheme="http://yoursite.com/categories/lintcode/"/>
-    
-    
-      <category term="位运算" scheme="http://yoursite.com/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>L2-007 家庭房产</title>
-    <link href="http://yoursite.com/posts/60e89d78.html"/>
-    <id>http://yoursite.com/posts/60e89d78.html</id>
-    <published>2019-04-10T12:09:24.000Z</published>
-    <updated>2019-04-15T10:53:27.268Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;天梯赛-L2-007-家庭房产&quot;&gt;&lt;a href=&quot;#天梯赛-L2-007-家庭房产&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-007 家庭房产&quot;&gt;&lt;/a&gt;天梯赛 L2-007 家庭房产&lt;/h2&gt;&lt;h3 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;给定每个人的家庭成员和其自己名下的房产，请你统计出每个家庭的人口数、人均房产面积及房产套数。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
-    
-    
-      <category term="并查集" scheme="http://yoursite.com/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>L2-011 玩转二叉树</title>
-    <link href="http://yoursite.com/posts/3fbdf6a5.html"/>
-    <id>http://yoursite.com/posts/3fbdf6a5.html</id>
-    <published>2019-04-09T11:23:59.000Z</published>
-    <updated>2019-04-15T10:54:17.237Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;天梯赛-L2-011-玩转二叉树&quot;&gt;&lt;a href=&quot;#天梯赛-L2-011-玩转二叉树&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-011 玩转二叉树&quot;&gt;&lt;/a&gt;天梯赛 L2-011 玩转二叉树&lt;/h2&gt;&lt;h3 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h3&gt;&lt;p&gt;给定一棵二叉树的中序遍历和前序遍历，请你先将树做个镜面反转，再输出反转后的层序遍历的序列。所谓镜面反转，是指将所有非叶结点的左右孩子对换。这里假设键值都是互不相等的正整数。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
-    
-    
-      <category term="树的遍历" scheme="http://yoursite.com/tags/%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>L2-006 树的遍历</title>
-    <link href="http://yoursite.com/posts/a8cec2de.html"/>
-    <id>http://yoursite.com/posts/a8cec2de.html</id>
-    <published>2019-04-08T12:18:57.000Z</published>
-    <updated>2019-04-15T10:52:25.628Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;天梯赛-L2-006-树的遍历&quot;&gt;&lt;a href=&quot;#天梯赛-L2-006-树的遍历&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-006 树的遍历&quot;&gt;&lt;/a&gt;天梯赛 L2-006 树的遍历&lt;/h2&gt;&lt;h3 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h3&gt;&lt;p&gt;给定一棵二叉树的后序遍历和中序遍历，请你输出其层序遍历的序列。这里假设键值都是互不相等的正整数。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
-    
-    
-      <category term="树的遍历" scheme="http://yoursite.com/tags/%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>L2-015 互评成绩</title>
-    <link href="http://yoursite.com/posts/60c46391.html"/>
-    <id>http://yoursite.com/posts/60c46391.html</id>
-    <published>2019-04-07T15:06:37.000Z</published>
-    <updated>2019-04-15T10:54:48.877Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;天梯赛-L2-015-互评成绩&quot;&gt;&lt;a href=&quot;#天梯赛-L2-015-互评成绩&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-015 互评成绩&quot;&gt;&lt;/a&gt;天梯赛 L2-015 互评成绩&lt;/h2&gt;&lt;h3 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h3&gt;&lt;p&gt;学生互评作业的简单规则是这样定的：每个人的作业会被k个同学评审，得到k个成绩。系统需要去掉一个最高分和一个最低分，将剩下的分数取平均，就得到这个学生的最后成绩。本题就要求你编写这个互评系统的算分模块。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
-    
-    
-      <category term="模拟" scheme="http://yoursite.com/tags/%E6%A8%A1%E6%8B%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>L2-005 集合相似度</title>
-    <link href="http://yoursite.com/posts/1d19f40a.html"/>
-    <id>http://yoursite.com/posts/1d19f40a.html</id>
-    <published>2019-04-06T15:37:33.000Z</published>
-    <updated>2019-04-15T10:52:57.599Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;天梯赛-L2-005-集合相似度&quot;&gt;&lt;a href=&quot;#天梯赛-L2-005-集合相似度&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L2-005 集合相似度&quot;&gt;&lt;/a&gt;天梯赛 L2-005 集合相似度&lt;/h2&gt;&lt;h3 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h3&gt;&lt;p&gt;给定两个整数集合，它们的相似度定义为：N​c​​/N​t​​×100%。其中N​c​​是两个集合都有的不相等整数的个数，N​t​​是两个集合一共有的不相等整数的个数。你的任务就是计算任意一对给定集合的相似度。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
-    
-    
-      <category term="STL" scheme="http://yoursite.com/tags/STL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>L1-064 估值一亿的AI核心代码</title>
-    <link href="http://yoursite.com/posts/cb748654.html"/>
-    <id>http://yoursite.com/posts/cb748654.html</id>
-    <published>2019-04-05T14:39:31.000Z</published>
-    <updated>2019-04-14T14:38:54.638Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;天梯赛-L1-064-估值一亿的AI核心代码&quot;&gt;&lt;a href=&quot;#天梯赛-L1-064-估值一亿的AI核心代码&quot; class=&quot;headerlink&quot; title=&quot;天梯赛 L1-064 估值一亿的AI核心代码&quot;&gt;&lt;/a&gt;天梯赛 L1-064 估值一亿的AI核心代码&lt;/h2&gt;&lt;h3 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h3&gt;&lt;p&gt;本题要求你实现一个稍微更值钱一点的 AI 英文问答程序，规则是：&lt;br&gt;　　１．无论用户说什么，首先把对方说的话在一行中原样打印出来；&lt;br&gt;　　２．消除原文中多余空格：把相邻单词间的多个空格换成 1个空格，把行首尾的空格全部删掉，把标点符号前面的空格删掉；&lt;br&gt;　　３．把原文中所有大写英文字母变成小写，除了 I；&lt;br&gt;　　４．把原文中所有独立的 can you、could you 对应地换成 I can、I could—— 这里“独立”是指被空格或标点符号分隔开的单词；&lt;br&gt;　　５．把原文中所有独立的 I 和 me 换成 you；&lt;br&gt;　　６．把原文中所有的问号 ? 换成惊叹号 !；&lt;br&gt;　　７．在一行中输出替换后的句子作为 AI 的回答。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="天梯赛" scheme="http://yoursite.com/categories/%E5%A4%A9%E6%A2%AF%E8%B5%9B/"/>
-    
-    
-      <category term="模拟" scheme="http://yoursite.com/tags/%E6%A8%A1%E6%8B%9F/"/>
-    
-      <category term="字符串处理" scheme="http://yoursite.com/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
     <title>欢迎</title>
     <link href="http://yoursite.com/posts/edc6676d.html"/>
     <id>http://yoursite.com/posts/edc6676d.html</id>
-    <published>2019-04-02T13:59:51.257Z</published>
+    <published>2020-01-15T12:04:58.213Z</published>
     <updated>2019-04-15T10:41:28.241Z</updated>
     
     <summary type="html">
@@ -408,7 +41,7 @@
     <title>Hello World</title>
     <link href="http://yoursite.com/posts/4a17b156.html"/>
     <id>http://yoursite.com/posts/4a17b156.html</id>
-    <published>2019-04-02T13:24:38.663Z</published>
+    <published>2020-01-15T12:04:56.944Z</published>
     <updated>2019-04-09T11:29:03.348Z</updated>
     
     <summary type="html">
@@ -420,6 +53,449 @@
     
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>JAVA-多线程</title>
+    <link href="http://yoursite.com/posts/ed2d66af.html"/>
+    <id>http://yoursite.com/posts/ed2d66af.html</id>
+    <published>2020-01-15T11:13:03.000Z</published>
+    <updated>2020-01-15T11:24:56.644Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;JAVA-多线程&quot;&gt;&lt;a href=&quot;#JAVA-多线程&quot; class=&quot;headerlink&quot; title=&quot;JAVA-多线程&quot;&gt;&lt;/a&gt;JAVA-多线程&lt;/h1&gt;&lt;h2 id=&quot;进程&quot;&gt;&lt;a href=&quot;#进程&quot; class=&quot;headerlink&quot; title=&quot;进程&quot;&gt;&lt;/a&gt;进程&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;正在进行中的程序。&lt;br&gt;一个应用程序在内存中所处的空间。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;线程&quot;&gt;&lt;a href=&quot;#线程&quot; class=&quot;headerlink&quot; title=&quot;线程&quot;&gt;&lt;/a&gt;线程&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;就是进程中一个负责程序执行的控制单元(执行路径)。&lt;br&gt;一个进程中可以多执行路径，称之为多线程。&lt;br&gt;一个进程中至少要有一个线程。&lt;br&gt;开启多个线程是为了同时运行多部分代码。&lt;br&gt;每一个线程都有自己运行的内容，这个内容可以成为线程要执行的任务。&lt;br&gt;创建线程的目的就是为了开启一条执行路径，去运行指定的代码可其他代码实现同时运行。&lt;br&gt;jvm创建的主线程的任务都定义在了主函数中。而自定义的线程通过Thread类中的run方法来运行。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="JAVA" scheme="http://yoursite.com/categories/JAVA/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JAVA异常</title>
+    <link href="http://yoursite.com/posts/40af7006.html"/>
+    <id>http://yoursite.com/posts/40af7006.html</id>
+    <published>2020-01-10T06:40:42.000Z</published>
+    <updated>2020-01-10T06:41:40.669Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;JAVA异常&quot;&gt;&lt;a href=&quot;#JAVA异常&quot; class=&quot;headerlink&quot; title=&quot;JAVA异常&quot;&gt;&lt;/a&gt;JAVA异常&lt;/h1&gt;&lt;h2 id=&quot;异常：&quot;&gt;&lt;a href=&quot;#异常：&quot; class=&quot;headerlink&quot; title=&quot;异常：&quot;&gt;&lt;/a&gt;异常：&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;是在运行时期发生的不正常情况。&lt;br&gt;在java中用类的形式对不正常的情况进行了描述和封装对象。&lt;br&gt;描述不正常的情况的类，就称为异常类。&lt;br&gt;以前正常流程代码和问题代码相结合;&lt;br&gt;现在将正常流程代码和问题处理代码分离。提高阅读性。&lt;br&gt;其实异常就是java通过面向对象的思想将问题封装成了对象。用异常类对其进行描述。&lt;br&gt;不同的问题用不同的类进行具体的描述。&lt;br&gt;问题很多，就意味着描述的类也很多，将其共性进行向上抽取，形成了异常体系。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="JAVA" scheme="http://yoursite.com/categories/JAVA/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JAVA面向对象</title>
+    <link href="http://yoursite.com/posts/a95233f1.html"/>
+    <id>http://yoursite.com/posts/a95233f1.html</id>
+    <published>2020-01-09T07:19:27.000Z</published>
+    <updated>2020-01-09T07:21:55.499Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;JAVA面向对象&quot;&gt;&lt;a href=&quot;#JAVA面向对象&quot; class=&quot;headerlink&quot; title=&quot;JAVA面向对象&quot;&gt;&lt;/a&gt;JAVA面向对象&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;举例：&lt;br&gt;大象装进冰箱&lt;/p&gt;
+&lt;p&gt;面向过程。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;打开&lt;/strong&gt;冰箱&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;存储&lt;/strong&gt;大象&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关闭&lt;/strong&gt;冰箱&lt;br&gt;对于面向过程思想，强调是&lt;strong&gt;过程&lt;/strong&gt;(动作)&lt;br&gt;C语言&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;面向对象。&lt;br&gt;对于面向对象思想，强调的是&lt;strong&gt;实体&lt;/strong&gt;。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;冰箱&lt;/strong&gt;打开&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;冰箱&lt;/strong&gt;存储&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;冰箱&lt;/strong&gt;关闭&lt;br&gt;C++ Java C#&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;特点：&quot;&gt;&lt;a href=&quot;#特点：&quot; class=&quot;headerlink&quot; title=&quot;特点：&quot;&gt;&lt;/a&gt;特点：&lt;/h2&gt;&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;面向对象就是一种常见的思想，符合人们的思想习惯。&lt;/li&gt;
+&lt;li&gt;面向对象的出现，将复杂的问题简单化了。&lt;/li&gt;
+&lt;li&gt;面向对象的出现，让曾经在过程中的执行者，变成了对象的指挥者。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="JAVA" scheme="http://yoursite.com/categories/JAVA/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JAVA-数组</title>
+    <link href="http://yoursite.com/posts/e1cdd6c0.html"/>
+    <id>http://yoursite.com/posts/e1cdd6c0.html</id>
+    <published>2020-01-04T07:39:28.000Z</published>
+    <updated>2020-01-04T07:42:07.847Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;JAVA数组&quot;&gt;&lt;a href=&quot;#JAVA数组&quot; class=&quot;headerlink&quot; title=&quot;JAVA数组&quot;&gt;&lt;/a&gt;JAVA数组&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;同一种类型数据的集合。其实数组就是一个容器。
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&quot;数组的好处&quot;&gt;&lt;a href=&quot;#数组的好处&quot; class=&quot;headerlink&quot; title=&quot;数组的好处&quot;&gt;&lt;/a&gt;数组的好处&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;可以自动给数组中的元素从0开始编号，方便操作这些元素。
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&quot;格式&quot;&gt;&lt;a href=&quot;#格式&quot; class=&quot;headerlink&quot; title=&quot;格式&quot;&gt;&lt;/a&gt;格式&lt;/h3&gt;&lt;p&gt;1.元素类型[]数组名 = new 元素类型[元素个数或数组长度]；&lt;br&gt;    int[] arr = new int[5];&lt;br&gt;需要一个容器，但不明确容器的具体数据&lt;br&gt;2.元素类型[] 数组名= new 元素类型[]{元素，元素，…}；&lt;br&gt;int arr[] = new int[]{1,3,5,7};&lt;br&gt;&lt;strong&gt;数组一旦建立必须明确长度&lt;/strong&gt;&lt;br&gt;int[] arr = {1,2,3};//静态初始化&lt;br&gt;已知具体数据&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="JAVA" scheme="http://yoursite.com/categories/JAVA/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-41-缺失的第一个正数</title>
+    <link href="http://yoursite.com/posts/8a4d16ea.html"/>
+    <id>http://yoursite.com/posts/8a4d16ea.html</id>
+    <published>2020-01-03T10:34:19.000Z</published>
+    <updated>2020-01-03T10:46:37.713Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;题目链接：&lt;a href=&quot;https://leetcode-cn.com/problems/first-missing-positive/comments/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;41.缺失的第一个正数&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;题意&quot;&gt;&lt;a href=&quot;#题意&quot; class=&quot;headerlink&quot; title=&quot;题意:&quot;&gt;&lt;/a&gt;题意:&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;给定一个未排序的整数数组，找出其中没有出现的最小的正整数。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://yoursite.com/categories/LeetCode/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JAVA_方法</title>
+    <link href="http://yoursite.com/posts/339e255.html"/>
+    <id>http://yoursite.com/posts/339e255.html</id>
+    <published>2020-01-03T06:39:18.000Z</published>
+    <updated>2020-01-03T06:43:07.979Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;JAVA方法-函数&quot;&gt;&lt;a href=&quot;#JAVA方法-函数&quot; class=&quot;headerlink&quot; title=&quot;JAVA方法(函数)&quot;&gt;&lt;/a&gt;JAVA方法(函数)&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;Java方法是语句的集合，它们在一起执行一个功能。
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;方法是解决一类问题的步骤的有序组合&lt;/li&gt;
+&lt;li&gt;方法包含于类或对象中&lt;/li&gt;
+&lt;li&gt;方法在程序中被创建，在其他地方被引用&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="JAVA" scheme="http://yoursite.com/categories/JAVA/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>C++指针</title>
+    <link href="http://yoursite.com/posts/aa121b21.html"/>
+    <id>http://yoursite.com/posts/aa121b21.html</id>
+    <published>2019-09-07T13:44:37.000Z</published>
+    <updated>2019-09-07T13:50:40.176Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;指针&quot;&gt;&lt;a href=&quot;#指针&quot; class=&quot;headerlink&quot; title=&quot;指针&quot;&gt;&lt;/a&gt;指针&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;指针也是一种数据类型&lt;br&gt;int &lt;em&gt;p;//p是一个变量，p的类型是int &lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;指针指向谁，就把谁的地址赋值给指针&lt;br&gt;int a = 10;&lt;br&gt;p=&amp;a;//p保存了ade    这句代码等价于int *p=&amp;a;&lt;br&gt;printf(“%p, %p\n”,p,&amp;amp;a);//打印地址&lt;/li&gt;
+&lt;li&gt;直接操作指针变量本身没有意义&lt;/li&gt;
+&lt;li&gt;需直接操作&lt;em&gt;p，操作指针所指向的内存
+&lt;/em&gt;p=100;//&lt;em&gt;p相当于a,a=100,&lt;/em&gt;p=100&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+      <category term="C++" scheme="http://yoursite.com/categories/C/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++函数</title>
+    <link href="http://yoursite.com/posts/a8df293f.html"/>
+    <id>http://yoursite.com/posts/a8df293f.html</id>
+    <published>2019-09-07T13:44:26.000Z</published>
+    <updated>2019-09-07T13:50:40.175Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;函数&quot;&gt;&lt;a href=&quot;#函数&quot; class=&quot;headerlink&quot; title=&quot;函数&quot;&gt;&lt;/a&gt;函数&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;函数的定义:就是把之前写在main里面的代码换个地方&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;无参无返回值函数void func();&lt;/li&gt;
+&lt;li&gt;有参无返回值函数void func(int s );&lt;/li&gt;
+&lt;li&gt;无参有返回值函数int func();&lt;/li&gt;
+&lt;li&gt;有参有返回值函数int func(int s );&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+      <category term="C++" scheme="http://yoursite.com/categories/C/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++数组和字符串</title>
+    <link href="http://yoursite.com/posts/fe46f741.html"/>
+    <id>http://yoursite.com/posts/fe46f741.html</id>
+    <published>2019-09-07T13:44:20.000Z</published>
+    <updated>2019-09-07T13:50:40.177Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;数组：&quot;&gt;&lt;a href=&quot;#数组：&quot; class=&quot;headerlink&quot; title=&quot;数组：&quot;&gt;&lt;/a&gt;数组：&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;定义&lt;/strong&gt;数组时，[]最好是常量&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;int n = 10;&lt;br&gt;int a[n]; //VS编译不过&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;h1 id=&quot;define-Size-10&quot;&gt;&lt;a href=&quot;#define-Size-10&quot; class=&quot;headerlink&quot; title=&quot;define Size 10&quot;&gt;&lt;/a&gt;define Size 10&lt;/h1&gt;&lt;p&gt;int a[Size];&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;使用&lt;/strong&gt;数组时，下标可以是常量，可以是变量，也可以是表达式&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="C++" scheme="http://yoursite.com/categories/C/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode_234.回文链表</title>
+    <link href="http://yoursite.com/posts/95ee3e6e.html"/>
+    <id>http://yoursite.com/posts/95ee3e6e.html</id>
+    <published>2019-08-14T13:15:34.000Z</published>
+    <updated>2019-08-14T13:18:05.941Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;题目链接：234-回文链表&quot;&gt;&lt;a href=&quot;#题目链接：234-回文链表&quot; class=&quot;headerlink&quot; title=&quot;题目链接：234.回文链表&quot;&gt;&lt;/a&gt;题目链接：&lt;a href=&quot;https://leetcode-cn.com/problems/palindrome-linked-list/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;234.回文链表&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;请判断一个链表是否为回文链表。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://yoursite.com/categories/LeetCode/"/>
+    
+    
+      <category term="链表" scheme="http://yoursite.com/tags/%E9%93%BE%E8%A1%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++输入输出</title>
+    <link href="http://yoursite.com/posts/c7e522af.html"/>
+    <id>http://yoursite.com/posts/c7e522af.html</id>
+    <published>2019-08-13T13:10:56.000Z</published>
+    <updated>2019-09-07T13:41:58.323Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;%p 打印地址&lt;br&gt;int a=10;&lt;br&gt;printf(“%p\n”,&amp;amp;a);&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;%5d以5个字符为单位输出，不足的以空填充，默认右对齐；&lt;/li&gt;
+&lt;li&gt;%05d  以0补充&lt;/li&gt;
+&lt;li&gt;%-5d,以5个字符输出，没有的字符以空字符填充，-代表左对齐&lt;br&gt;“0”和”-“不能一起使用&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="C++" scheme="http://yoursite.com/categories/C/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode_2.两数相加</title>
+    <link href="http://yoursite.com/posts/b94f9af0.html"/>
+    <id>http://yoursite.com/posts/b94f9af0.html</id>
+    <published>2019-08-12T12:17:28.000Z</published>
+    <updated>2019-08-12T12:19:53.840Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;题目链接：2-两数相加&quot;&gt;&lt;a href=&quot;#题目链接：2-两数相加&quot; class=&quot;headerlink&quot; title=&quot;题目链接：2.两数相加&quot;&gt;&lt;/a&gt;题目链接：&lt;a href=&quot;https://leetcode-cn.com/problems/add-two-numbers/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;2.两数相加&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;给出两个 非空 的链表用来表示两个非负的整数。其中，它们各自的位数是按照 逆序 的方式存储的，并且它们的每个节点只能存储 一位 数字。&lt;br&gt;如果，我们将这两个数相加起来，则会返回一个新的链表来表示它们的和。&lt;br&gt;您可以假设除了数字 0 之外，这两个数都不会以 0 开头。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://yoursite.com/categories/LeetCode/"/>
+    
+    
+      <category term="链表" scheme="http://yoursite.com/tags/%E9%93%BE%E8%A1%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++补码总结&amp;&amp;数据类型范围</title>
+    <link href="http://yoursite.com/posts/a59a7d28.html"/>
+    <id>http://yoursite.com/posts/a59a7d28.html</id>
+    <published>2019-08-11T12:26:48.000Z</published>
+    <updated>2019-08-11T12:27:32.865Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;补码求反码：&lt;br&gt;正数不变，负数符号位不变，其与取反&lt;/p&gt;
+&lt;p&gt;反码求原码：&lt;br&gt;正数不变；负数直接加一&lt;/p&gt;
+&lt;p&gt;char a = 0x81;&lt;br&gt;补码：1000 0001&lt;br&gt;反码：1111 1110&lt;br&gt;原码：1111 1111 = -127&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="C++" scheme="http://yoursite.com/categories/C/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++_数的进制与原码反码补码</title>
+    <link href="http://yoursite.com/posts/9f5c3f4.html"/>
+    <id>http://yoursite.com/posts/9f5c3f4.html</id>
+    <published>2019-08-10T13:05:19.000Z</published>
+    <updated>2019-08-11T09:04:29.645Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;extern int a;&lt;br&gt;只声明a，没有定义，不占空间&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1.计算机数据传输是以bit(位)为单位的  数据存储是以Byte(字节)为单位&lt;br&gt;例如最大宽带接入速度为5MB/s，就相当于5*8=40Mb/s的宽带&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;小数转二进制&quot;&gt;&lt;a href=&quot;#小数转二进制&quot; class=&quot;headerlink&quot; title=&quot;小数转二进制&quot;&gt;&lt;/a&gt;小数转二进制&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;0.432(因为小数部分只有三位，所以只用算三位)&lt;br&gt;0.432 &lt;em&gt; 2 = 0.864 所以二进制小数部分第一位为0（取整数部分）&lt;br&gt;0.864 &lt;/em&gt; 2 = 1.728&lt;br&gt;第二位为1&lt;br&gt;0.728 * 2 =1.456（乘的时候只用计算小数部分）&lt;br&gt;第三位为1&lt;br&gt;故最终转换为二进制的结果为0.011&lt;br&gt;其它进制的都类似了&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="C++" scheme="http://yoursite.com/categories/C/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode_382.链表随机节点</title>
+    <link href="http://yoursite.com/posts/4c816d24.html"/>
+    <id>http://yoursite.com/posts/4c816d24.html</id>
+    <published>2019-08-09T12:58:26.000Z</published>
+    <updated>2019-08-10T02:10:37.680Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;题目链接：147-对链表进行插入排序&quot;&gt;&lt;a href=&quot;#题目链接：147-对链表进行插入排序&quot; class=&quot;headerlink&quot; title=&quot;题目链接：147.对链表进行插入排序&quot;&gt;&lt;/a&gt;题目链接：&lt;a href=&quot;https://leetcode-cn.com/problems/insertion-sort-list/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;147.对链表进行插入排序&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;给定一个单链表，随机选择链表的一个节点，并返回相应的节点值。保证每个节点被选的概率一样。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;进阶&quot;&gt;&lt;a href=&quot;#进阶&quot; class=&quot;headerlink&quot; title=&quot;进阶:&quot;&gt;&lt;/a&gt;进阶:&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;如果链表十分大且长度未知，如何解决这个问题？你能否使用常数级空间复杂度实现？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;示例&quot;&gt;&lt;a href=&quot;#示例&quot; class=&quot;headerlink&quot; title=&quot;示例:&quot;&gt;&lt;/a&gt;示例:&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;// 初始化一个单链表 [1,2,3].&lt;br&gt;ListNode head = new ListNode(1);&lt;br&gt;head.next = new ListNode(2);&lt;br&gt;head.next.next = new ListNode(3);&lt;br&gt;Solution solution = new Solution(head);&lt;br&gt;// getRandom()方法应随机返回1,2,3中的一个，保证每个元素被返回的概率相等。&lt;br&gt;solution.getRandom();&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://yoursite.com/categories/LeetCode/"/>
+    
+    
+      <category term="链表" scheme="http://yoursite.com/tags/%E9%93%BE%E8%A1%A8/"/>
+    
+      <category term="蓄水池采样" scheme="http://yoursite.com/tags/%E8%93%84%E6%B0%B4%E6%B1%A0%E9%87%87%E6%A0%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode_147.对链表进行插入排序</title>
+    <link href="http://yoursite.com/posts/55eb0345.html"/>
+    <id>http://yoursite.com/posts/55eb0345.html</id>
+    <published>2019-08-08T13:00:12.000Z</published>
+    <updated>2019-08-08T13:04:18.129Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;题目链接：147-对链表进行插入排序&quot;&gt;&lt;a href=&quot;#题目链接：147-对链表进行插入排序&quot; class=&quot;headerlink&quot; title=&quot;题目链接：147.对链表进行插入排序&quot;&gt;&lt;/a&gt;题目链接：&lt;a href=&quot;https://leetcode-cn.com/problems/insertion-sort-list/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;147.对链表进行插入排序&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif&quot; alt&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;插入排序的动画演示如上。从第一个元素开始，该链表可以被认为已经部分排序（用黑色表示）。&lt;br&gt;每次迭代时，从输入数据中移除一个元素（用红色表示），并原地将其插入到已排好序的链表中。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://yoursite.com/categories/LeetCode/"/>
+    
+    
+      <category term="链表" scheme="http://yoursite.com/tags/%E9%93%BE%E8%A1%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode_92.反转链表 II</title>
+    <link href="http://yoursite.com/posts/d860db2e.html"/>
+    <id>http://yoursite.com/posts/d860db2e.html</id>
+    <published>2019-08-07T12:45:13.000Z</published>
+    <updated>2019-08-07T12:49:57.267Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;题目链接：92-反转链表-II&quot;&gt;&lt;a href=&quot;#题目链接：92-反转链表-II&quot; class=&quot;headerlink&quot; title=&quot;题目链接：92.反转链表 II&quot;&gt;&lt;/a&gt;题目链接：&lt;a href=&quot;https://leetcode-cn.com/problems/reverse-linked-list-ii/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;92.反转链表 II&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;反转从位置 m 到 n 的链表。请使用一趟扫描完成反转。&lt;br&gt;说明:&lt;br&gt;1 ≤ m ≤ n ≤ 链表长度。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://yoursite.com/categories/LeetCode/"/>
+    
+    
+      <category term="链表" scheme="http://yoursite.com/tags/%E9%93%BE%E8%A1%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode_21.合并两个有序链表</title>
+    <link href="http://yoursite.com/posts/405b14b8.html"/>
+    <id>http://yoursite.com/posts/405b14b8.html</id>
+    <published>2019-08-07T12:45:04.000Z</published>
+    <updated>2019-08-07T12:49:57.263Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;题目链接：21-合并两个有序链表&quot;&gt;&lt;a href=&quot;#题目链接：21-合并两个有序链表&quot; class=&quot;headerlink&quot; title=&quot;题目链接：21. 合并两个有序链表&quot;&gt;&lt;/a&gt;题目链接：&lt;a href=&quot;https://leetcode-cn.com/problems/merge-two-sorted-lists/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;21. 合并两个有序链表&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&quot;题意：&quot;&gt;&lt;a href=&quot;#题意：&quot; class=&quot;headerlink&quot; title=&quot;题意：&quot;&gt;&lt;/a&gt;题意：&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;将两个有序链表合并为一个新的有序链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://yoursite.com/categories/LeetCode/"/>
+    
+    
+      <category term="链表" scheme="http://yoursite.com/tags/%E9%93%BE%E8%A1%A8/"/>
     
   </entry>
   
